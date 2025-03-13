@@ -12,6 +12,7 @@ import React, { useState, useEffect, useMemo } from "react";
 import { usePathname } from "next/navigation";
 import { axiosURL } from "@/utils/axios";
 import Link from "next/link";
+import { base_url } from "@/utils/constant";
 
 interface ProductInterface {
     translation: any;
@@ -99,7 +100,7 @@ export default function ProductDetail() {
                                             loadingData ?
                                                 <Skeleton.Image style={{ height: "100%", width: "100%", minHeight: "15rem" }} active={true} />
                                                 :
-                                                <img src={`${process.env.NEXT_PUBLIC_LIVE_URL}${product?.image}`} alt={(JSON.parse(product?.translation))[language]?.name} className="w-full h-full rounded-lg object-fit object-cover max-h-[28rem]" />
+                                                <img src={`${base_url}${product?.image}`} alt={(JSON.parse(product?.translation))[language]?.name} className="w-full h-full rounded-lg object-fit object-cover max-h-[28rem]" />
                                         }
                                     </div>
                                     <div>
@@ -163,7 +164,7 @@ export default function ProductDetail() {
                                                         <Link href={`/products/${(JSON.parse(product?.translation))[language]?.name}/${product.id}`}>
                                                             {/* <div className="h-[12rem] md:h-[18rem] w-full bg-[#F1F1F1]"></div> */}
                                                             {/* <div className="h-[12rem] md:h-[18rem] w-full bg-[#F1F1F1]"></div> */}
-                                                            <img src={`${process.env.NEXT_PUBLIC_LIVE_URL}${product?.image}`} alt={(JSON.parse(product.translation))[language]?.name} className="w-full h-[12rem] md:h-[18rem] rounded-l object-fit object-cover" />
+                                                            <img src={`${base_url}${product?.image}`} alt={(JSON.parse(product.translation))[language]?.name} className="w-full h-[12rem] md:h-[18rem] rounded-l object-fit object-cover" />
                                                             <div className="mt-2 md:mt-5">
                                                                 <h4 className="text-base md:text-lg font-medium">{(JSON.parse(product.translation))[language]?.name}</h4>
                                                                 <p className="mt-1 md:mt-3 text-black opacity-80">

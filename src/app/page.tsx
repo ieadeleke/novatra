@@ -20,6 +20,7 @@ import { FaPlantWilt } from "react-icons/fa6";
 import { axiosURL } from "@/utils/axios";
 import { Swiper, SwiperSlide } from 'swiper/react';
 import 'swiper/css';
+import { base_url } from "@/utils/constant";
 
 
 
@@ -98,7 +99,7 @@ export default function Homepage() {
     1280: { slidesPerView: 4 }, // Desktops
   }
 
-  
+
   return (
     <div>
       <DisplayLayout displayQuote={displayQuote} toggleQuoteController={toggleQuoteController}>
@@ -129,7 +130,7 @@ export default function Homepage() {
                                     <div className="cursor-pointer" key={index}>
                                       <Link href={`/products/${(JSON.parse(product?.translation))[language]?.name}/${product.id}`}>
                                         <div className="size-[15rem] md:size-[20rem] mx-auto md:mx-unset rounded-full overflow-hidden">
-                                          <img src={`${process.env.NEXT_PUBLIC_LIVE_URL}${product?.image}`} alt={(JSON.parse(product.translation))[language]?.name} className="w-full h-full md:h-full rounded-l object-fit object-cover" />
+                                          <img src={`${base_url}${product?.image}`} alt={(JSON.parse(product.translation))[language]?.name} className="w-full h-full md:h-full rounded-l object-fit object-cover" />
                                         </div>
                                         <div className="mt-2 md:mt-5">
                                           <h4 className="text-base md:text-xl font-medium">{(JSON.parse(product.translation))[language]?.name}</h4>
@@ -216,7 +217,7 @@ export default function Homepage() {
                           <Link href={`/products/${(JSON.parse(product?.translation))[language]?.name}/${product.id}`}>
                             {/* <div className="h-[12rem] md:h-[18rem] w-full bg-[#F1F1F1]"></div> */}
                             {/* <div className="h-[12rem] md:h-[18rem] w-full bg-[#F1F1F1]"></div> */}
-                            <img src={`${process.env.NEXT_PUBLIC_LIVE_URL}${product?.image}`} alt={(JSON.parse(product.translation))[language]?.name} className="w-full h-[12rem] md:h-[18rem] rounded-l object-fit object-cover" />
+                            <img src={`${base_url}${product?.image}`} alt={(JSON.parse(product.translation))[language]?.name} className="w-full h-[12rem] md:h-[18rem] rounded-l object-fit object-cover" />
                             <div className="mt-2 md:mt-5">
                               <h4 className="text-base md:text-lg font-medium">{(JSON.parse(product.translation))[language]?.name}</h4>
                               <p className="mt-1 md:mt-3 text-black opacity-80">
