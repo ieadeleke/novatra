@@ -17,18 +17,18 @@ export default function Home() {
     const router = useRouter();
     const [openDrawer, setOpenDrawer] = useState(false);
     const [currentView, setCurrentView] = useState(0);
-    const [products, setProducts] = useState([]);
+    const [products, setProducts] = useState<any>([]);
     const [filteredProducts, setFilteredProducts] = useState([]);
     const [dbData, setDbData] = useState([]);
     const [displayQuote, setDisplayQuote] = useState(false);
     const [loadingData, setLoadingData] = useState(true);
     const [searchQuery, setSearchQuery] = useState("all");
     const [selectedProduct, setSelectedProduct] = useState({});
-    
+
     const Context = createContext({ name: 'Default' });
     const [api, contextHolder] = notification.useNotification();
 
-    const openNotification = (message) => {
+    const openNotification = (message: any) => {
         api.info({
             message: "",
             description: <Context.Consumer>{() => message}</Context.Consumer>,
@@ -46,7 +46,7 @@ export default function Home() {
                 let query = param.get("query");
                 const rand = dbtest.length > 8 ? Math.trunc(Math.random() * (dbtest.length - 8)) : 0;
                 setProducts(dbtest);
-                setFilteredProducts(query === "all" ? dbtest : dbtest.filter((product) => product?.category?.replaceAll(" ", "-").toLowerCase() === query?.replaceAll(" ", "-").toLowerCase()));
+                setFilteredProducts(query === "all" ? dbtest : dbtest.filter((product: any) => product?.category?.replaceAll(" ", "-").toLowerCase() === query?.replaceAll(" ", "-").toLowerCase()));
                 setSearchQuery(query || "all");
                 setDbData(dbtest.slice(rand, rand + 8));
             } catch (error) {
@@ -58,11 +58,11 @@ export default function Home() {
         handleFetchProducts();
     }, [param]);
 
-    const handleProductsFilter = (query) => {
+    const handleProductsFilter = (query: any) => {
         const formattedQuery = query.replaceAll(" ", "-");
         setSearchQuery(formattedQuery);
         router.push(`?query=${formattedQuery}`, { scroll: false });
-        setFilteredProducts(query === "all" ? products : products.filter((product) => product?.category?.replaceAll(" ", "-").toLowerCase() === formattedQuery.toLowerCase()));
+        setFilteredProducts(query === "all" ? products : products.filter((product: any) => product?.category?.replaceAll(" ", "-").toLowerCase() === formattedQuery.toLowerCase()));
     };
 
     const { language } = useLanguage();
@@ -88,7 +88,15 @@ export default function Home() {
                         {contextHolder}
                         <div className="bg-black h-[16rem] md:h-[20rem] px-5 md:px-20 w-full relative">
                             <h3 className="text-white text-xl md:text-3xl font-bold absolute bottom-16 md:bottom-24">
-                                {t.page_title}
+                                {
+                                    language === "en" ?
+                                        "Our Products" :
+                                        language === "ru" ?
+                                            "Наши продукты" :
+                                            language === "fr" ?
+                                                "Nos produits" :
+                                                "منتجاتنا"
+                                }
                             </h3>
                         </div>
                         <div className="w-full flex flex-col md:grid grid-cols-1/3 px-5 md:px-20 pt-20 md:pt-32 pb-32">
@@ -100,7 +108,11 @@ export default function Home() {
                             </div>
                             <div>
                                 <div className="flex justify-between items-center mb-2">
-                                    <h3 className="text-xl md:text-2xl font-bold">{t[searchQuery.replaceAll("-", "_")] || t.all_products}</h3>
+                                    <h3 className="text-xl md:text-2xl font-bold">
+                                        {
+                                            searchQuery === "all" ? t.all_products : searchQuery === "food-and-oils" ? t.food_products : searchQuery === "livestock" ? t.livestock_products : searchQuery === "agro-crops" ? t.agro_products : t.industrial_products
+                                        }</h3>
+                                    {/* <h3 className="text-xl md:text-2xl font-bold">{t[searchQuery.replaceAll("-", "_")] || t.all_products}</h3> */}
                                     <div className="block md:hidden">
                                         <Dropdown menu={{ items }}>
                                             <IoFilter className="text-3xl" />
@@ -112,7 +124,7 @@ export default function Home() {
                                         new Array(4).fill(0).map((_, index) => (
                                             <Skeleton.Image key={index} style={{ height: "15rem", width: "100%", marginBottom: 20 }} active />
                                         )) :
-                                        filteredProducts.map((product, index) => (
+                                        filteredProducts.map((product: any, index) => (
                                             <div className="cursor-pointer" key={index}>
                                                 <Link href={`/products/${(JSON.parse(product?.translation))[language]?.name}/${product.id}`}>
                                                     <img src={`${process.env.NEXT_PUBLIC_LIVE_URL}${product?.image}`} alt={(JSON.parse(product.translation))[language]?.name} className="w-full h-[12rem] md:h-[15rem] rounded-l object-cover" />
