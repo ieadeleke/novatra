@@ -98,6 +98,7 @@ export default function Homepage() {
     1280: { slidesPerView: 4 }, // Desktops
   }
 
+  
   return (
     <div>
       <DisplayLayout displayQuote={displayQuote} toggleQuoteController={toggleQuoteController}>
