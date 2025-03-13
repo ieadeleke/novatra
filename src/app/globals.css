@@ -1,0 +1,160 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #F5F7FB;
+  --foreground: #171717;
+  --gray-text-color: #667085;
+  --text-color: #0B1416;
+  --accent-color: #F963AB;
+  --bold-color: #0A2A30;
+  --black: #000000;
+  --offwhite: #567C82;
+  --main: #CFF34E;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #fff;
+    --foreground: #ededed;
+  }
+}
+
+body {
+  color: var(--foreground);
+  color: var(--text-color);
+  background: var(--background);
+  font-family: "DM Sans", serif;
+  font-family: "Plus Jakarta Sans", serif;
+  font-family: "Work Sans", serif;
+  max-width: 1800px;
+  margin: 0px auto;
+  overflow-x: hidden;
+  width: 100%;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Inter", serif;
+  font-family: "Plus Jakarta Sans", serif;
+}
+
+.ant-tabs-tabpane p,
+.ant-modal-body label {
+  font-family: "Work Sans", serif;
+}
+
+.ant-tabs-tabpane h4,
+.ant-modal-body button,
+.ant-modal-body h1,
+.ant-modal-body h2 .ant-modal-body h3 {
+  font-family: "Plus Jakarta Sans", serif !important;
+}
+
+.br-img {
+  background: url("/farm.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center bottom;
+}
+
+.hero {
+  /* background: linear-gradient(to top right, rgba(0, 0, 0.7), rgba(0, 0, 0, .2), rgba(0, 0, 0, .1)), url("/hero.jpg");
+  background: linear-gradient(to top right, rgba(0, 0, 0.7), rgba(0, 0, 0, .5), rgba(0, 0, 0, .1)), url("/hero_new.jpg"); */
+  /* background: linear-gradient(to top right, rgba(0, 0, 0.7), rgba(0, 0, 0, .5), rgba(0, 0, 0, .1)), url("/storage.jpg"); */
+  /* background: linear-gradient(to top right, rgba(0, 0, 0.2), rgba(0, 0, 0, .2)), url("/main.webp"); */
+  background: url("/main.webp");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+
+.ant-drawer-header {
+  display: none !important;
+}
+
+.ant-drawer-content-wrapper {
+  width: 100% !important;
+}
+
+.about-bg {
+  background: linear-gradient(to top right, rgba(0, 0, 0.7), rgba(0, 0, 0, .5), rgba(0, 0, 0, .1)), url("/about.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.ant-drawer-body {
+  padding: 0px !important;
+}
+
+.ant-dropdown-menu {
+  /* background: transparent !important; */
+  z-index: 1000;
+}
+
+.nav .ant-dropdown-menu {
+  background: transparent !important;
+}
+
+.ant-dropdown-menu .ant-dropdown-menu-item {
+  padding: 10px !important;
+}
+
+.ant-dropdown {
+  background: transparent !important;
+  font-family: "Work Sans", serif !important;
+}
+
+.nav .ant-dropdown {
+  background: transparent !important;
+}
+
+.ant-divider-inner-text {
+  font-family: "Plus Jakarta Sans", serif;
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+
+.faq-text {
+  opacity: 0;
+  overflow: hidden;
+  max-height: 0px;
+  transition: max-height .4s ease-in-out, opacity .4s ease-in-out;
+}
+
+.faq-text.view {
+  max-height: 20rem;
+  opacity: 1;
+}
+
+.ant-skeleton.ant-skeleton-element {
+  width: 100%;
+  height: 100%;
+}
+
+.bg-farm {
+  background: linear-gradient(to top right, rgba(0, 0, 0.2), rgba(0, 0, 0, .2)), url("/store.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center; 
+}
+
+.box-placing{
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.swiper-container {
+  overflow: hidden;
+  max-width: 100% !important;
+  width: 100% !important;
+}

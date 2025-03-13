@@ -1,0 +1,2462 @@
+[
+    {
+        "image": "/products/sunflower.jpg",
+        "name": "Bulk Sunflower Seeds",
+        "en": {
+            "name": "Bulk Sunflower Seeds",
+            "category": "Premium Quality Sunflower Seeds, Freshly Harvested for Human & Animal Feed! Naturally rich in energy and essential nutrients, our sunflower seeds are perfect for both human consumption and animal feed. Packed with nutrients, these seeds will provide top performance for livestock and wholesome meals for you! Available in bulk at competitive prices. Global shipping is available. Secure your supply today for the best quality sunflower seeds!",
+            "origin": "Ukraine",
+            "specification": "Seed",
+            "specification_detail": {
+                "type": "High-quality sunflower seeds",
+                "moisture": "7.5% max",
+                "admixture": "1.5% max",
+                "purity": "100%"
+            },
+            "shelfLife": "12 Months",
+            "storage": "Cool, dry place",
+            "style": "Dried",
+            "type": "Agricultural",
+            "packaging": {
+                "packaging": "In vacuum-sealed packaging.",
+                "delivery_detail": "Within 15 days from order confirmation."
+            }
+        },
+        "fr": {
+            "name": "Graines de Tournesol en Vrac",
+            "category": "Graines de tournesol de qualité premium, récoltées fraîchement pour l'alimentation humaine et animale ! Riche en énergie et nutriments essentiels, nos graines de tournesol sont parfaites pour la consommation humaine et l'alimentation animale. Ces graines, riches en nutriments, garantiront des performances optimales pour le bétail et des repas sains pour vous ! Disponible en vrac à des prix compétitifs. Livraison mondiale disponible. Sécurisez votre approvisionnement aujourd'hui pour obtenir les meilleures graines de tournesol !",
+            "origin": "Ukraine",
+            "specification": "Graine",
+            "specification_detail": {
+                "type": "Graines de tournesol de haute qualité",
+                "moisture": "7,5% max",
+                "admixture": "1,5% max",
+                "purity": "100%"
+            },
+            "shelfLife": "12 mois",
+            "storage": "Endroit frais et sec",
+            "style": "Séchées",
+            "type": "Agricole",
+            "packaging": {
+                "packaging": "Dans un emballage sous vide.",
+                "delivery_detail": "Dans les 15 jours suivant la confirmation de la commande."
+            }
+        },
+        "ar": {
+            "name": "بذور دوار الشمس بالجملة",
+            "category": "بذور دوار الشمس ذات الجودة العالية، تم حصادها حديثًا ومعبأة بالمواد الغذائية للاستهلاك البشري والعلف الحيواني! غنية بالطاقة والمواد الغذائية الأساسية، بذور دوار الشمس لدينا مثالية للاستهلاك البشري والعلف الحيواني. ستوفر هذه البذور أداءً ممتازًا للماشية ووجبات صحية لك! متوفرة بالجملة بأسعار تنافسية. الشحن العالمي متاح. قم بتأمين إمدادك اليوم للحصول على أفضل بذور دوار الشمس!",
+            "origin": "أوكرانيا",
+            "specification": "بذور",
+            "specification_detail": {
+                "type": "بذور دوار الشمس عالية الجودة",
+                "moisture": "7.5% كحد أقصى",
+                "admixture": "1.5% كحد أقصى",
+                "purity": "100%"
+            },
+            "shelfLife": "12 شهرًا",
+            "storage": "مكان بارد وجاف",
+            "style": "مجففة",
+            "type": "زراعي",
+            "packaging": {
+                "packaging": "في عبوات محكمة الإغلاق.",
+                "delivery_detail": "خلال 15 يومًا من تأكيد الطلب."
+            }
+        },
+        "ru": {
+            "name": "Оптовые семена подсолнечника",
+            "category": "Премиум качество семян подсолнечника, свежесобранных для человеческого потребления и кормов для животных! Богаты энергией и важными питательными веществами, наши семена подсолнечника идеально подходят как для человеческого потребления, так и для кормов для животных. Эти семена обеспечат отличную производительность для скота и здоровое питание для вас! Доступно оптом по конкурентоспособным ценам. Глобальная доставка доступна. Обеспечьте свои поставки сегодня для получения лучших семян подсолнечника!",
+            "origin": "Украина",
+            "specification": "Семена",
+            "specification_detail": {
+                "type": "Высококачественные семена подсолнечника",
+                "moisture": "7,5% макс.",
+                "admixture": "1,5% макс.",
+                "purity": "100%"
+            },
+            "shelfLife": "12 месяцев",
+            "storage": "Холодное и сухое место",
+            "style": "Сушеные",
+            "type": "Сельскохозяйственные",
+            "packaging": {
+                "packaging": "В вакуумной упаковке.",
+                "delivery_detail": "В течение 15 дней с момента подтверждения заказа."
+            }
+        }
+    },
+    {
+        "image": "/products/walnuts.jpg",
+        "name": "Bulk Walnut",
+        "en": {
+            "name": "Bulk Walnut",
+            "category": "Premium quality walnut kernels, freshly harvested and packed with nutrients. Naturally rich in healthy fats, protein, and essential vitamins, perfect for human consumption and culinary use. Available in bulk at competitive prices. Global shipping available. Secure your supply today for the best quality walnut kernels!",
+            "origin": "Ukraine",
+            "specification": "Kernel",
+            "specification_detail": {
+                "type": "Whole kernel",
+                "moisture": "5.0% max",
+                "admixture": "1.0% max",
+                "purity": "99%"
+            },
+            "shelfLife": "12 Months",
+            "storage": "Cool, dry place",
+            "style": "Raw",
+            "type": "Agricultural",
+            "packaging": {
+                "packaging": "Packed in 25kg woven polypropylene bags.",
+                "delivery_detail": "Within 15 days from order confirmation."
+            }
+        },
+        "fr": {
+            "name": "Cœur de noix en vrac",
+            "category": "Noix de qualité supérieure, fraîchement récoltées et emballées avec des nutriments. Naturellement riches en graisses saines, protéines et vitamines essentielles, parfaites pour la consommation humaine et l'utilisation culinaire. Disponibles en vrac à des prix compétitifs. Expédition mondiale disponible. Assurez votre approvisionnement dès aujourd'hui pour les meilleurs cœurs de noix!",
+            "origin": "Ukraine",
+            "specification": "Cœur",
+            "specification_detail": {
+                "type": "Grain entier",
+                "moisture": "5,0 % max",
+                "admixture": "1,0 % max",
+                "purity": "99 %"
+            },
+            "shelfLife": "12 mois",
+            "storage": "Endroit frais et sec",
+            "style": "Cru",
+            "type": "Agricole",
+            "packaging": {
+                "packaging": "Emballé dans des sacs en polypropylène de 25 kg.",
+                "delivery_detail": "Dans les 15 jours suivant la confirmation de la commande."
+            }
+        },
+        "ar": {
+            "name": "لب جوز بالجملة",
+            "category": "لب جوز عالي الجودة، تم حصاده وتعبئته حديثًا مع العناصر الغذائية. غني بشكل طبيعي بالدهون الصحية والبروتينات والفيتامينات الأساسية، مثالي للاستهلاك البشري والاستخدامات الطهي. متاح بكميات كبيرة بأسعار تنافسية. الشحن العالمي متاح. تأمين إمداداتك اليوم للحصول على أفضل لب جوز!",
+            "origin": "أوكرانيا",
+            "specification": "لب",
+            "specification_detail": {
+                "type": "لب كامل",
+                "moisture": "5.0% كحد أقصى",
+                "admixture": "1.0% كحد أقصى",
+                "purity": "99%"
+            },
+            "shelfLife": "12 شهرًا",
+            "storage": "مكان بارد وجاف",
+            "style": "خام",
+            "type": "زراعي",
+            "packaging": {
+                "packaging": "معبأ في أكياس بولي بروبيلين وزنها 25 كجم.",
+                "delivery_detail": "في غضون 15 يومًا من تأكيد الطلب."
+            }
+        },
+        "ru": {
+            "name": "Оптовые ядра грецкого ореха",
+            "category": "Ядра грецкого ореха премиум-класса, свежесобранные и упакованные с питательными веществами. Естественно богатые полезными жирами, белками и необходимыми витаминами, идеально подходят для потребления людьми и кулинарного использования. Доступны оптом по конкурентоспособным ценам. Доступна международная доставка. Обеспечьте свой запас лучших ядер грецкого ореха уже сегодня!",
+            "origin": "Украина",
+            "specification": "Ядро",
+            "specification_detail": {
+                "type": "Целое ядро",
+                "moisture": "5.0% макс.",
+                "admixture": "1.0% макс.",
+                "purity": "99%"
+            },
+            "shelfLife": "12 месяцев",
+            "storage": "Холодное, сухое место",
+            "style": "Сырой",
+            "type": "Сельскохозяйственное",
+            "packaging": {
+                "packaging": "Упаковано в мешки из полиэтиленового пропилена по 25 кг.",
+                "delivery_detail": "В течение 15 дней с момента подтверждения заказа."
+            }
+        }
+    },
+    {
+        "image": "/products/barley.jpg",
+        "name": "Bulk Barley",
+        "en": {
+            "name": "Bulk Barley",
+            "category": "Premium quality barley, freshly harvested and packed with nutrients. Naturally rich in fiber, protein, and essential vitamins, perfect for human consumption and animal feed. Available in bulk at competitive prices. Global shipping available. Secure your supply today for the best quality barley!",
+            "origin": "Ukraine",
+            "specification": "Grain",
+            "specification_detail": {
+                "type": "Whole grain",
+                "moisture": "12% max",
+                "admixture": "1% max",
+                "purity": "98%"
+            },
+            "shelfLife": "12 Months",
+            "storage": "Cool, dry place",
+            "style": "Dried",
+            "type": "Agricultural",
+            "packaging": {
+                "packaging": "Packed in 50kg woven polypropylene bags.",
+                "delivery_detail": "Within 15 days from order confirmation."
+            }
+        },
+        "fr": {
+            "name": "Orge en vrac",
+            "category": "Orge de qualité supérieure, fraîchement récoltée et emballée avec des nutriments. Naturellement riche en fibres, protéines et vitamines essentielles, parfaite pour la consommation humaine et l'alimentation animale. Disponible en vrac à des prix compétitifs. Expédition mondiale disponible. Assurez votre approvisionnement dès aujourd'hui pour la meilleure qualité d'orge!",
+            "origin": "Ukraine",
+            "specification": "Grain",
+            "specification_detail": {
+                "type": "Grain entier",
+                "moisture": "12% max",
+                "admixture": "1% max",
+                "purity": "98%"
+            },
+            "shelfLife": "12 mois",
+            "storage": "Endroit frais et sec",
+            "style": "Séchée",
+            "type": "Agricole",
+            "packaging": {
+                "packaging": "Emballé dans des sacs en polypropylène de 50 kg.",
+                "delivery_detail": "Dans les 15 jours suivant la confirmation de la commande."
+            }
+        },
+        "ar": {
+            "name": "شعير بالجملة",
+            "category": "شعير عالي الجودة، تم حصاده وتعبئته حديثًا مع العناصر الغذائية. غني بشكل طبيعي بالألياف والبروتينات والفيتامينات الأساسية، مثالي للاستهلاك البشري وتغذية الحيوانات. متاح بكميات كبيرة بأسعار تنافسية. الشحن العالمي متاح. تأمين إمداداتك اليوم للحصول على أفضل جودة شعير!",
+            "origin": "أوكرانيا",
+            "specification": "حبوب",
+            "specification_detail": {
+                "type": "حبوب كاملة",
+                "moisture": "12% كحد أقصى",
+                "admixture": "1% كحد أقصى",
+                "purity": "98%"
+            },
+            "shelfLife": "12 شهرًا",
+            "storage": "مكان بارد وجاف",
+            "style": "مُجفف",
+            "type": "زراعي",
+            "packaging": {
+                "packaging": "معبأ في أكياس بولي بروبيلين وزنها 50 كجم.",
+                "delivery_detail": "في غضون 15 يومًا من تأكيد الطلب."
+            }
+        },
+        "ru": {
+            "name": "Оптовый ячмень",
+            "category": "Ячмень премиум-класса, свежесобранный и упакованный с питательными веществами. Естественно богат клетчаткой, белками и необходимыми витаминами, идеально подходит для потребления людьми и кормления животных. Доступен оптом по конкурентоспособным ценам. Доступна международная доставка. Обеспечьте свой запас лучшего ячменя уже сегодня!",
+            "origin": "Украина",
+            "specification": "Зерно",
+            "specification_detail": {
+                "type": "Цельное зерно",
+                "moisture": "12% макс.",
+                "admixture": "1% макс.",
+                "purity": "98%"
+            },
+            "shelfLife": "12 месяцев",
+            "storage": "Холодное, сухое место",
+            "style": "Сушеное",
+            "type": "Сельскохозяйственное",
+            "packaging": {
+                "packaging": "Упаковано в мешки из полиэтиленового пропилена по 50 кг.",
+                "delivery_detail": "В течение 15 дней с момента подтверждения заказа."
+            }
+        }
+    },
+    {
+        "image": "/products/milk.jpg",
+        "name": "Bulk Full Cream Milk Powder",
+        "en": {
+            "name": "Bulk Full Cream Milk Powder",
+            "category": "Premium quality full cream milk powder, rich in essential nutrients, perfect for reconstitution into milk for daily consumption. Naturally rich in calcium, protein, and vitamins, ideal for making dairy products like butter, cheese, and yogurt. Available in bulk at competitive prices. Global shipping available. Secure your supply today for the best quality full cream milk powder!",
+            "origin": "Ukraine",
+            "specification": "Powder",
+            "shelfLife": "12 Months",
+            "storage": "Cool, dry place",
+            "style": "Powdered",
+            "type": "Dairy",
+            "specification_detail": {
+                "type": "Full cream milk powder",
+                "fat_content": "26% min",
+                "moisture": "4.0% max",
+                "purity": "99.9%"
+            },
+            "packaging": {
+                "packaging": "In 25kg or 50kg food-grade plastic bags, or 1-ton bulk bags, as per buyer's requirements.",
+                "delivery_detail": "Within 15 days from order confirmation."
+            }
+        },
+        "fr": {
+            "name": "Poudre de lait entier en vrac",
+            "category": "Poudre de lait entier de qualité supérieure, riche en nutriments essentiels, parfaite pour la reconstitution en lait pour la consommation quotidienne. Naturellement riche en calcium, protéines et vitamines, idéale pour fabriquer des produits laitiers comme du beurre, du fromage et du yaourt. Disponible en vrac à des prix compétitifs. Livraison mondiale disponible. Sécurisez votre approvisionnement dès aujourd'hui pour la meilleure qualité de poudre de lait entier !",
+            "origin": "Ukraine",
+            "specification": "Poudre",
+            "shelfLife": "12 mois",
+            "storage": "Endroit frais et sec",
+            "style": "En poudre",
+            "type": "Produits laitiers",
+            "specification_detail": {
+                "type": "Poudre de lait entier",
+                "fat_content": "26 % min",
+                "moisture": "4,0 % max",
+                "purity": "99,9 %"
+            },
+            "packaging": {
+                "packaging": "En sacs en plastique de qualité alimentaire de 25 kg ou 50 kg, ou en sacs en vrac de 1 tonne, selon les exigences de l'acheteur.",
+                "delivery_detail": "Dans les 15 jours suivant la confirmation de la commande."
+            }
+        },
+        "ar": {
+            "name": "مسحوق الحليب كامل الدسم بالجملة",
+            "category": "مسحوق الحليب كامل الدسم عالي الجودة، غني بالعناصر الغذائية الأساسية، مثالي لإعادة التكوين إلى الحليب للاستهلاك اليومي. غني بشكل طبيعي بالكالسيوم والبروتينات والفيتامينات، مثالي لصناعة منتجات الألبان مثل الزبدة والجبن والزبادي. متاح بالجملة بأسعار تنافسية. الشحن العالمي متاح. تأمين إمدادك اليوم للحصول على أفضل مسحوق حليب كامل الدسم!",
+            "origin": "أوكرانيا",
+            "specification": "مسحوق",
+            "shelfLife": "12 شهرا",
+            "storage": "مكان بارد وجاف",
+            "style": "مسحوق",
+            "type": "منتجات الألبان",
+            "specification_detail": {
+                "type": "مسحوق الحليب كامل الدسم",
+                "fat_content": "26٪ على الأقل",
+                "moisture": "4.0٪ كحد أقصى",
+                "purity": "99.9٪"
+            },
+            "packaging": {
+                "packaging": "في أكياس بلاستيكية غذائية سعة 25 كجم أو 50 كجم أو أكياس بالجملة سعة 1 طن، حسب متطلبات المشتري.",
+                "delivery_detail": "خلال 15 يومًا من تأكيد الطلب."
+            }
+        },
+        "ru": {
+            "name": "Оптовое молоко в порошке с полным сливочным составом",
+            "category": "Молоко в порошке высокого качества, богатое необходимыми питательными веществами, идеально подходит для восстановления в молоко для ежедневного потребления. Естественно богато кальцием, белками и витаминами, идеально для производства молочных продуктов, таких как масло, сыр и йогурт. Доступно оптом по конкурентоспособным ценам. Доставка по всему миру доступна. Обеспечьте себе поставки сегодня для получения молока в порошке лучшего качества!",
+            "origin": "Украина",
+            "specification": "Порошок",
+            "shelfLife": "12 месяцев",
+            "storage": "Хранить в прохладном и сухом месте",
+            "style": "Порошковый",
+            "type": "Молочные продукты",
+            "specification_detail": {
+                "type": "Молоко в порошке с полным сливочным составом",
+                "fat_content": "26% мин.",
+                "moisture": "4.0% макс.",
+                "purity": "99.9%"
+            },
+            "packaging": {
+                "packaging": "В пластиковых упаковках пищевого класса по 25 кг или 50 кг, или в крупных упаковках по 1 тонне, в зависимости от требований покупателя.",
+                "delivery_detail": "В течение 15 дней с момента подтверждения заказа."
+            }
+        }
+    },
+    {
+        "image": "/products/milk.jpg",
+        "name": "Bulk Skimmed Milk Powder",
+        "en": {
+            "name": "Bulk Skimmed Milk Powder",
+            "category": "Premium quality skimmed milk powder, ideal for reconstitution into milk for daily consumption. Naturally low in fat, but rich in calcium, protein, and vitamins, perfect for making dairy products like butter, cheese, and yogurt. Available in bulk at competitive prices. Global shipping available. Secure your supply today for the best quality skimmed milk powder!",
+            "origin": "Ukraine",
+            "specification": "Powder",
+            "shelfLife": "12 Months",
+            "storage": "Cool, dry place",
+            "style": "Powdered",
+            "type": "Dairy",
+            "specification_detail": {
+                "type": "Skimmed milk powder",
+                "fat_content": "1.5% max",
+                "moisture": "4.0% max",
+                "purity": "99.9%"
+            },
+            "packaging": {
+                "packaging": "In 25kg or 50kg food-grade plastic bags, or 1-ton bulk bags, as per buyer's requirements.",
+                "delivery_detail": "Within 15 days from order confirmation."
+            }
+        },
+        "fr": {
+            "name": "Poudre de lait écrémé en vrac",
+            "category": "Poudre de lait écrémé de qualité supérieure, idéale pour la reconstitution en lait pour la consommation quotidienne. Naturellement faible en graisses, mais riche en calcium, protéines et vitamines, parfaite pour fabriquer des produits laitiers comme du beurre, du fromage et du yaourt. Disponible en vrac à des prix compétitifs. Livraison mondiale disponible. Sécurisez votre approvisionnement dès aujourd'hui pour la meilleure qualité de poudre de lait écrémé !",
+            "origin": "Ukraine",
+            "specification": "Poudre",
+            "shelfLife": "12 mois",
+            "storage": "Endroit frais et sec",
+            "style": "En poudre",
+            "type": "Produits laitiers",
+            "specification_detail": {
+                "type": "Poudre de lait écrémé",
+                "fat_content": "1,5 % max",
+                "moisture": "4,0 % max",
+                "purity": "99,9 %"
+            },
+            "packaging": {
+                "packaging": "En sacs en plastique de qualité alimentaire de 25 kg ou 50 kg, ou en sacs en vrac de 1 tonne, selon les exigences de l'acheteur.",
+                "delivery_detail": "Dans les 15 jours suivant la confirmation de la commande."
+            }
+        },
+        "ar": {
+            "name": "مسحوق الحليب خالي الدسم بالجملة",
+            "category": "مسحوق الحليب خالي الدسم عالي الجودة، مثالي لإعادة التكوين إلى الحليب للاستهلاك اليومي. منخفض طبيعيًا في الدهون، ولكنه غني بالكالسيوم والبروتينات والفيتامينات، مثالي لصناعة منتجات الألبان مثل الزبدة والجبن والزبادي. متاح بالجملة بأسعار تنافسية. الشحن العالمي متاح. تأمين إمدادك اليوم للحصول على أفضل مسحوق حليب خالي الدسم!",
+            "origin": "أوكرانيا",
+            "specification": "مسحوق",
+            "shelfLife": "12 شهرا",
+            "storage": "مكان بارد وجاف",
+            "style": "مسحوق",
+            "type": "منتجات الألبان",
+            "specification_detail": {
+                "type": "مسحوق الحليب خالي الدسم",
+                "fat_content": "1.5٪ كحد أقصى",
+                "moisture": "4.0٪ كحد أقصى",
+                "purity": "99.9٪"
+            },
+            "packaging": {
+                "packaging": "في أكياس بلاستيكية غذائية سعة 25 كجم أو 50 كجم أو أكياس بالجملة سعة 1 طن، حسب متطلبات المشتري.",
+                "delivery_detail": "خلال 15 يومًا من تأكيد الطلب."
+            }
+        },
+        "ru": {
+            "name": "Оптовое молоко в порошке без жира",
+            "category": "Молоко в порошке высокого качества без жира, идеально подходит для восстановления в молоко для ежедневного потребления. Естественно низкое содержание жира, но богатое кальцием, белками и витаминами, идеально для производства молочных продуктов, таких как масло, сыр и йогурт. Доступно оптом по конкурентоспособным ценам. Доставка по всему миру доступна. Обеспечьте себе поставки сегодня для получения молока в порошке лучшего качества!",
+            "origin": "Украина",
+            "specification": "Порошок",
+            "shelfLife": "12 месяцев",
+            "storage": "Хранить в прохладном и сухом месте",
+            "style": "Порошковый",
+            "type": "Молочные продукты",
+            "specification_detail": {
+                "type": "Молоко в порошке без жира",
+                "fat_content": "1.5% макс.",
+                "moisture": "4.0% макс.",
+                "purity": "99.9%"
+            },
+            "packaging": {
+                "packaging": "В пластиковых упаковках пищевого класса по 25 кг или 50 кг, или в крупных упаковках по 1 тонне, в зависимости от требований покупателя.",
+                "delivery_detail": "В течение 15 дней с момента подтверждения заказа."
+            }
+        }
+    },
+    {
+        "image": "/products/chicken.jpg",
+        "name": "Bulk Frozen Chicken",
+        "en": {
+            "name": "Bulk Frozen Chicken",
+            "category": "Premium quality frozen chicken, freshly processed and packed for optimal freshness. Rich in protein and essential nutrients, perfect for both domestic and commercial use. Available in bulk at competitive prices. Global shipping available. Secure your supply today for the best quality frozen chicken!",
+            "origin": "Ukraine",
+            "specification": "Meat",
+            "shelfLife": "12 Months",
+            "storage": "Keep frozen",
+            "style": "Frozen",
+            "type": "Poultry",
+            "specification_detail": {
+                "type": "Frozen whole chicken",
+                "weight": "Average 1.5 - 2.5 kg per chicken",
+                "moisture": "70% max",
+                "purity": "100%"
+            },
+            "packaging": {
+                "packaging": "In 10kg, 20kg or 40kg cartons or bulk packaging as per buyer's requirements.",
+                "delivery_detail": "Within 15 days from order confirmation."
+            }
+        },
+        "fr": {
+            "name": "Poulet congelé en vrac",
+            "category": "Poulet congelé de qualité supérieure, fraîchement transformé et emballé pour une fraîcheur optimale. Riche en protéines et nutriments essentiels, parfait pour un usage domestique et commercial. Disponible en vrac à des prix compétitifs. Livraison mondiale disponible. Sécurisez votre approvisionnement dès aujourd'hui pour obtenir du poulet congelé de la meilleure qualité !",
+            "origin": "Ukraine",
+            "specification": "Viande",
+            "shelfLife": "12 mois",
+            "storage": "Conserver congelé",
+            "style": "Congelé",
+            "type": "Volaille",
+            "specification_detail": {
+                "type": "Poulet entier congelé",
+                "weight": "Poids moyen de 1,5 à 2,5 kg par poulet",
+                "moisture": "70 % max",
+                "purity": "100 %"
+            },
+            "packaging": {
+                "packaging": "Dans des cartons de 10 kg, 20 kg ou 40 kg ou emballage en vrac selon les exigences de l'acheteur.",
+                "delivery_detail": "Dans les 15 jours suivant la confirmation de la commande."
+            }
+        },
+        "ar": {
+            "name": "دجاج مجمد بالجملة",
+            "category": "دجاج مجمد عالي الجودة، معالج ومعبأ حديثًا للحصول على أقصى درجات الطزاجة. غني بالبروتينات والعناصر الغذائية الأساسية، مثالي للاستخدام المنزلي والتجاري. متاح بالجملة بأسعار تنافسية. الشحن العالمي متاح. تأمين إمدادك اليوم للحصول على أفضل دجاج مجمد!",
+            "origin": "أوكرانيا",
+            "specification": "لحوم",
+            "shelfLife": "12 شهرا",
+            "storage": "حفظ مجمد",
+            "style": "مجمد",
+            "type": "دواجن",
+            "specification_detail": {
+                "type": "دجاج كامل مجمد",
+                "weight": "متوسط الوزن 1.5 - 2.5 كجم لكل دجاجة",
+                "moisture": "70٪ كحد أقصى",
+                "purity": "100٪"
+            },
+            "packaging": {
+                "packaging": "في عبوات كرتونية سعة 10 كجم، 20 كجم أو 40 كجم أو تعبئة بالجملة حسب متطلبات المشتري.",
+                "delivery_detail": "في غضون 15 يومًا من تأكيد الطلب."
+            }
+        },
+        "ru": {
+            "name": "Оптовая замороженная курица",
+            "category": "Замороженная курица высокого качества, свежепереработанная и упакованная для оптимальной свежести. Богата белками и необходимыми питательными веществами, идеально подходит как для домашнего, так и для коммерческого использования. Доступна оптом по конкурентоспособным ценам. Доставка по всему миру доступна. Обеспечьте себя поставками сегодня для получения замороженной курицы лучшего качества!",
+            "origin": "Украина",
+            "specification": "Мясо",
+            "shelfLife": "12 месяцев",
+            "storage": "Хранить в морозильной камере",
+            "style": "Замороженное",
+            "type": "Птица",
+            "specification_detail": {
+                "type": "Замороженная целая курица",
+                "weight": "Средний вес 1,5 - 2,5 кг на курицу",
+                "moisture": "70% макс.",
+                "purity": "100%"
+            },
+            "packaging": {
+                "packaging": "В картонных коробках по 10 кг, 20 кг или 40 кг или упаковка в больших объемах по требованию покупателя.",
+                "delivery_detail": "В течение 15 дней с момента подтверждения заказа."
+            }
+        }
+    },
+    {
+        "image": "/products/cement.jpg",
+        "name": "Wholesale Cement",
+        "en": {
+            "name": "Wholesale Cement",
+            "category": "Premium quality cement, specially processed for construction purposes. Strong and durable, perfect for large-scale construction projects and small repairs. Available in bulk at competitive prices. Global shipping available. Secure your supply today for the best quality cement!",
+            "origin": "Ukraine",
+            "specification": "Powder",
+            "shelfLife": "12 Months",
+            "storage": "Cool, dry place",
+            "style": "Powdered",
+            "type": "Construction",
+            "specification_detail": {
+                "type": "Portland cement, grey powder",
+                "moisture": "5.0% max",
+                "admixture": "2.0% max",
+                "purity": "98%"
+            },
+            "packaging": {
+                "packaging": "In 50kg PP woven bags or 1-ton bulk bags, as per buyer's requirements.",
+                "delivery_detail": "Within 15 days from order confirmation."
+            }
+        },
+        "fr": {
+            "name": "Ciment en gros",
+            "category": "Ciment de qualité supérieure, spécialement traité pour des travaux de construction. Fort et durable, parfait pour les projets de construction à grande échelle et les petites réparations. Disponible en vrac à des prix compétitifs. Livraison mondiale disponible. Sécurisez votre approvisionnement dès aujourd'hui pour obtenir le meilleur ciment !",
+            "origin": "Ukraine",
+            "specification": "Poudre",
+            "shelfLife": "12 mois",
+            "storage": "Endroit frais et sec",
+            "style": "En poudre",
+            "type": "Construction",
+            "specification_detail": {
+                "type": "Ciment Portland, poudre grise",
+                "moisture": "5,0 % max",
+                "admixture": "2,0 % max",
+                "purity": "98 %"
+            },
+            "packaging": {
+                "packaging": "Dans des sacs tissés en PP de 50 kg ou des sacs en vrac de 1 tonne, selon les exigences de l'acheteur.",
+                "delivery_detail": "Dans les 15 jours suivant la confirmation de la commande."
+            }
+        },
+        "ar": {
+            "name": "أسمنت بالجملة",
+            "category": "أسمنت عالي الجودة، تمت معالجته خصيصًا لأغراض البناء. قوي ودائم، مثالي للمشاريع الكبيرة وإصلاحات صغيرة. متاح بالجملة بأسعار تنافسية. الشحن العالمي متاح. تأمين إمدادك اليوم للحصول على أفضل أسمنت!",
+            "origin": "أوكرانيا",
+            "specification": "مسحوق",
+            "shelfLife": "12 شهرا",
+            "storage": "مكان بارد وجاف",
+            "style": "مسحوق",
+            "type": "إنشاءات",
+            "specification_detail": {
+                "type": "أسمنت بورتلاند، مسحوق رمادي",
+                "moisture": "5.0٪ كحد أقصى",
+                "admixture": "2.0٪ كحد أقصى",
+                "purity": "98٪"
+            },
+            "packaging": {
+                "packaging": "في أكياس منسوجة من PP سعة 50 كجم أو أكياس بالجملة سعة 1 طن، حسب متطلبات المشتري.",
+                "delivery_detail": "خلال 15 يومًا من تأكيد الطلب."
+            }
+        },
+        "ru": {
+            "name": "Оптовый цемент",
+            "category": "Цемент высокого качества, специально обработанный для строительных целей. Прочный и долговечный, идеально подходит для крупных строительных проектов и мелкого ремонта. Доступен оптом по конкурентоспособным ценам. Доставка по всему миру доступна. Обеспечьте себя поставками сегодня для получения цемента лучшего качества!",
+            "origin": "Украина",
+            "specification": "Порошок",
+            "shelfLife": "12 месяцев",
+            "storage": "Хранить в прохладном и сухом месте",
+            "style": "Порошковый",
+            "type": "Строительство",
+            "specification_detail": {
+                "type": "Цемент портландский, серая пудра",
+                "moisture": "5,0% макс.",
+                "admixture": "2,0% макс.",
+                "purity": "98%"
+            },
+            "packaging": {
+                "packaging": "В мешках из полипропиленовой ткани по 50 кг или в больших упаковках по 1 тонне, в зависимости от требований покупателя.",
+                "delivery_detail": "В течение 15 дней с момента подтверждения заказа."
+            }
+        }
+    },
+    {
+        "image": "/products/sunfloweroil.jpg",
+        "name": "Wholesale Sunflower Oil",
+        "en": {
+            "name": "Wholesale Sunflower Oil",
+            "category": "Premium quality sunflower oil, cold-pressed and refined for culinary and industrial use. Naturally rich in vitamins and essential fatty acids, perfect for cooking, frying, and salad dressings. Available in bulk at competitive prices. Global shipping available. Secure your supply today for the best quality sunflower oil!",
+            "origin": "Ukraine",
+            "specification": "Liquid",
+            "shelfLife": "12 Months",
+            "storage": "Cool, dry place",
+            "style": "Refined",
+            "type": "Food and Industrial",
+            "specification_detail": {
+                "type": "Cold-pressed and refined sunflower oil",
+                "acidity": "0.1% max",
+                "moisture": "0.1% max",
+                "purity": "99.9%"
+            },
+            "packaging": {
+                "packaging": "In 1L, 5L, or 10L food-grade plastic bottles or 200L drums, as per buyer's requirements.",
+                "delivery_detail": "Within 15 days from order confirmation."
+            }
+        },
+        "fr": {
+            "name": "Huile de tournesol en gros",
+            "category": "Huile de tournesol de qualité supérieure, pressée à froid et raffinée pour une utilisation culinaire et industrielle. Naturellement riche en vitamines et acides gras essentiels, idéale pour la cuisson, la friture et les vinaigrettes. Disponible en vrac à des prix compétitifs. Livraison mondiale disponible. Sécurisez votre approvisionnement dès aujourd'hui pour obtenir la meilleure huile de tournesol !",
+            "origin": "Ukraine",
+            "specification": "Liquide",
+            "shelfLife": "12 mois",
+            "storage": "Endroit frais et sec",
+            "style": "Raffinée",
+            "type": "Alimentaire et industriel",
+            "specification_detail": {
+                "type": "Huile de tournesol pressée à froid et raffinée",
+                "acidity": "0,1 % max",
+                "moisture": "0,1 % max",
+                "purity": "99,9 %"
+            },
+            "packaging": {
+                "packaging": "Dans des bouteilles en plastique de qualité alimentaire de 1L, 5L ou 10L ou des fûts de 200L, selon les exigences de l'acheteur.",
+                "delivery_detail": "Dans les 15 jours suivant la confirmation de la commande."
+            }
+        },
+        "ar": {
+            "name": "زيت عباد الشمس بالجملة",
+            "category": "زيت عباد الشمس عالي الجودة، مضغوط على البارد ومكرر للاستخدامات الطهي والصناعية. غني طبيعيًا بالفيتامينات والأحماض الدهنية الأساسية، مثالي للطهي، القلي، والصلصات. متاح بالجملة بأسعار تنافسية. الشحن العالمي متاح. تأمين إمدادك اليوم للحصول على أفضل زيت عباد الشمس!",
+            "origin": "أوكرانيا",
+            "specification": "سائل",
+            "shelfLife": "12 شهرا",
+            "storage": "مكان بارد وجاف",
+            "style": "مكرر",
+            "type": "غذائي وصناعي",
+            "specification_detail": {
+                "type": "زيت عباد الشمس مضغوط على البارد ومكرر",
+                "acidity": "0.1٪ كحد أقصى",
+                "moisture": "0.1٪ كحد أقصى",
+                "purity": "99.9٪"
+            },
+            "packaging": {
+                "packaging": "في زجاجات بلاستيكية من الدرجة الغذائية بسعة 1 لتر أو 5 لتر أو 10 لتر أو في براميل سعة 200 لتر، حسب متطلبات المشتري.",
+                "delivery_detail": "خلال 15 يومًا من تأكيد الطلب."
+            }
+        },
+        "ru": {
+            "name": "Оптовое подсолнечное масло",
+            "category": "Подсолнечное масло высшего качества, прессованное холодным способом и очищенное для кулинарного и промышленного использования. Естественно богатое витаминами и незаменимыми жирными кислотами, идеально подходит для жарки, жарки и заправок для салатов. Доступно оптом по конкурентоспособным ценам. Доставка по всему миру. Обеспечьте себя поставками сегодня для получения масла лучшего качества!",
+            "origin": "Украина",
+            "specification": "Жидкость",
+            "shelfLife": "12 месяцев",
+            "storage": "Хранить в прохладном и сухом месте",
+            "style": "Рафинированное",
+            "type": "Пищевое и промышленное",
+            "specification_detail": {
+                "type": "Подсолнечное масло, холодного отжима и рафинированное",
+                "acidity": "0,1% макс.",
+                "moisture": "0,1% макс.",
+                "purity": "99,9%"
+            },
+            "packaging": {
+                "packaging": "В пластиковых бутылках пищевого класса 1 л, 5 л или 10 л или в бочках по 200 л, в зависимости от требований покупателя.",
+                "delivery_detail": "В течение 15 дней с момента подтверждения заказа."
+            }
+        }
+    },
+    {
+        "image": "/products/sunfloweroil.jpg",
+        "name": "Wholesale Sunflower Oil",
+        "en": {
+            "name": "Wholesale Sunflower Oil",
+            "category": "Premium quality sunflower oil, cold-pressed and refined for culinary and industrial use. Naturally rich in vitamins and essential fatty acids, perfect for cooking, frying, and salad dressings. Available in bulk at competitive prices. Global shipping available. Secure your supply today for the best quality sunflower oil!",
+            "origin": "Ukraine",
+            "specification": "Liquid",
+            "shelfLife": "12 Months",
+            "storage": "Cool, dry place",
+            "style": "Refined",
+            "type": "Food and Industrial",
+            "specification_detail": {
+                "type": "Cold-pressed and refined sunflower oil",
+                "acidity": "0.1% max",
+                "moisture": "0.1% max",
+                "purity": "99.9%"
+            },
+            "packaging": {
+                "packaging": "In 1L, 5L, or 10L food-grade plastic bottles or 200L drums, as per buyer's requirements.",
+                "delivery_detail": "Within 15 days from order confirmation."
+            }
+        },
+        "fr": {
+            "name": "Huile de tournesol en gros",
+            "category": "Huile de tournesol de qualité supérieure, pressée à froid et raffinée pour une utilisation culinaire et industrielle. Naturellement riche en vitamines et acides gras essentiels, idéale pour la cuisson, la friture et les vinaigrettes. Disponible en vrac à des prix compétitifs. Livraison mondiale disponible. Sécurisez votre approvisionnement dès aujourd'hui pour obtenir la meilleure huile de tournesol !",
+            "origin": "Ukraine",
+            "specification": "Liquide",
+            "shelfLife": "12 mois",
+            "storage": "Endroit frais et sec",
+            "style": "Raffinée",
+            "type": "Alimentaire et industriel",
+            "specification_detail": {
+                "type": "Huile de tournesol pressée à froid et raffinée",
+                "acidity": "0,1 % max",
+                "moisture": "0,1 % max",
+                "purity": "99,9 %"
+            },
+            "packaging": {
+                "packaging": "Dans des bouteilles en plastique de qualité alimentaire de 1L, 5L ou 10L ou des fûts de 200L, selon les exigences de l'acheteur.",
+                "delivery_detail": "Dans les 15 jours suivant la confirmation de la commande."
+            }
+        },
+        "ar": {
+            "name": "زيت عباد الشمس بالجملة",
+            "category": "زيت عباد الشمس عالي الجودة، مضغوط على البارد ومكرر للاستخدامات الطهي والصناعية. غني طبيعيًا بالفيتامينات والأحماض الدهنية الأساسية، مثالي للطهي، القلي، والصلصات. متاح بالجملة بأسعار تنافسية. الشحن العالمي متاح. تأمين إمدادك اليوم للحصول على أفضل زيت عباد الشمس!",
+            "origin": "أوكرانيا",
+            "specification": "سائل",
+            "shelfLife": "12 شهرا",
+            "storage": "مكان بارد وجاف",
+            "style": "مكرر",
+            "type": "غذائي وصناعي",
+            "specification_detail": {
+                "type": "زيت عباد الشمس مضغوط على البارد ومكرر",
+                "acidity": "0.1٪ كحد أقصى",
+                "moisture": "0.1٪ كحد أقصى",
+                "purity": "99.9٪"
+            },
+            "packaging": {
+                "packaging": "في زجاجات بلاستيكية من الدرجة الغذائية بسعة 1 لتر أو 5 لتر أو 10 لتر أو في براميل سعة 200 لتر، حسب متطلبات المشتري.",
+                "delivery_detail": "خلال 15 يومًا من تأكيد الطلب."
+            }
+        },
+        "ru": {
+            "name": "Оптовое подсолнечное масло",
+            "category": "Подсолнечное масло высшего качества, прессованное холодным способом и очищенное для кулинарного и промышленного использования. Естественно богатое витаминами и незаменимыми жирными кислотами, идеально подходит для жарки, жарки и заправок для салатов. Доступно оптом по конкурентоспособным ценам. Доставка по всему миру. Обеспечьте себя поставками сегодня для получения масла лучшего качества!",
+            "origin": "Украина",
+            "specification": "Жидкость",
+            "shelfLife": "12 месяцев",
+            "storage": "Хранить в прохладном и сухом месте",
+            "style": "Рафинированное",
+            "type": "Пищевое и промышленное",
+            "specification_detail": {
+                "type": "Подсолнечное масло, холодного отжима и рафинированное",
+                "acidity": "0,1% макс.",
+                "moisture": "0,1% макс.",
+                "purity": "99,9%"
+            },
+            "packaging": {
+                "packaging": "В пластиковых бутылках пищевого класса 1 л, 5 л или 10 л или в бочках по 200 л, в зависимости от требований покупателя.",
+                "delivery_detail": "В течение 15 дней с момента подтверждения заказа."
+            }
+        }
+    },
+    {
+        "image": "/products/popcorn.jpg",
+        "name": "Bulk Yellow Corn Maize",
+        "en": {
+            "name": "Bulk Yellow Corn Maize",
+            "category": "New Crop Yellow Corn Maize Premium Quality for Human & Animal Feed! Freshly harvested and packed with nutrients, our high-quality yellow corn maize is perfect for both human consumption and animal feed. Naturally rich in energy and essential nutrients, ensuring top performance for livestock and wholesome meals for you! Available in bulk at competitive prices! Global shipping is available. Secure your supply today for the best quality maize!",
+            "origin": "Ukraine",
+            "specification": "Grain",
+            "specification_detail": {
+                "type": "5009 long type, full and heavy seeds",
+                "moisture": "7.0% max",
+                "admixture": "1.0% max",
+                "purity": "99%"
+            },
+            "shelfLife": "24 Months",
+            "storage": "Dry places",
+            "style": "Dried",
+            "type": "Agricultural",
+            "packaging": {
+                "packaging": "In 50kg woven polypropylene bags.",
+                "delivery_detail": "Within 15 days from order confirmation."
+            }
+        },
+        "fr": {
+            "name": "Maïs Jaune en Vrac",
+            "category": "Maïs Jaune de Nouvelle Récolte de Qualité Premium pour l'Alimentation Humaine et Animale ! Récolté frais et riche en nutriments, notre maïs jaune de haute qualité est parfait à la fois pour la consommation humaine et l'alimentation animale. Naturellement riche en énergie et nutriments essentiels, assurant de bonnes performances pour le bétail et des repas sains pour vous ! Disponible en vrac à des prix compétitifs ! Livraison mondiale disponible. Sécurisez votre approvisionnement dès aujourd'hui pour obtenir le meilleur maïs !",
+            "origin": "Ukraine",
+            "specification": "Grain",
+            "specification_detail": {
+                "type": "Type long 5009, graines pleines et lourdes",
+                "moisture": "7,0 % max",
+                "admixture": "1,0 % max",
+                "purity": "99 %"
+            },
+            "shelfLife": "24 mois",
+            "storage": "Endroits secs",
+            "style": "Séchées",
+            "type": "Agricole",
+            "packaging": {
+                "packaging": "Dans des sacs en polypropylène tissés de 50 kg.",
+                "delivery_detail": "Dans les 15 jours suivant la confirmation de la commande."
+            }
+        },
+        "ar": {
+            "name": "الذرة الصفراء بالجملة",
+            "category": "ذرة صفراء من المحصول الجديد، ذات جودة ممتازة للاستهلاك البشري والعلف الحيواني! تم حصادها حديثًا ومعبأة بالمواد الغذائية، ذرة صفراء عالية الجودة مثالية للاستهلاك البشري والعلف الحيواني. غنية بالطاقة والمواد الغذائية الأساسية، مما يضمن أفضل أداء للماشية ووجبات صحية لك! متاحة بالجملة بأسعار تنافسية! الشحن العالمي متاح. تأمين إمدادك اليوم للحصول على أفضل ذرة!",
+            "origin": "أوكرانيا",
+            "specification": "حبة",
+            "specification_detail": {
+                "type": "نوع طويل 5009، بذور كاملة وثقيلة",
+                "moisture": "7.0% كحد أقصى",
+                "admixture": "1.0% كحد أقصى",
+                "purity": "99%"
+            },
+            "shelfLife": "24 شهرًا",
+            "storage": "أماكن جافة",
+            "style": "مجففة",
+            "type": "زراعي",
+            "packaging": {
+                "packaging": "في أكياس بولي بروبيلين منسوجة بوزن 50 كجم.",
+                "delivery_detail": "في غضون 15 يومًا من تأكيد الطلب."
+            }
+        },
+        "ru": {
+            "name": "Оптовая желтая кукуруза",
+            "category": "Новый урожай желтой кукурузы премиум качества для питания людей и кормов для животных! Свежесобранная и богатая питательными веществами, наша высококачественная желтая кукуруза идеально подходит как для потребления человеком, так и для кормов для животных. Естественно богатая энергией и важными питательными веществами, обеспечивая отличную производительность для скота и здоровую пищу для вас! Доступна оптом по конкурентоспособным ценам! Доставка по всему миру доступна. Обеспечьте поставки сегодня для получения лучшей кукурузы!",
+            "origin": "Украина",
+            "specification": "Зерно",
+            "specification_detail": {
+                "type": "Тип 5009 длинный, полные и тяжелые семена",
+                "moisture": "7.0% макс.",
+                "admixture": "1.0% макс.",
+                "purity": "99%"
+            },
+            "shelfLife": "24 месяца",
+            "storage": "Сухие места",
+            "style": "Сушеное",
+            "type": "Сельскохозяйственное",
+            "packaging": {
+                "packaging": "В мешках из полиэтиленового пропилена по 50 кг.",
+                "delivery_detail": "В те"
+            }
+        }
+    },
+    {
+        "image": "/products/cashew.jpg",
+        "name": "Bulk Original Cashew",
+        "en": {
+            "name": "Bulk Original Cashew",
+            "category": "Premium Vietnamese Cashew Nuts W240, W320, W180 Available! Sourced directly from Vietnam, our high-quality cashew nuts are crunchy, delicious, and packed with nutrients! Available in W240, W320, and W180 grades, perfect for snacking, cooking, and commercial use. Bulk orders are available at competitive prices! Fresh, organic, and globally shipped! Contact us now to place your order!",
+            "origin": "Vietnam",
+            "specification": "Nuts & Kernels",
+            "shelfLife": "24 Months",
+            "storage": "Cool Dry place",
+            "style": "5% Moisture",
+            "type": "Agricultural",
+            "specification_detail": {
+                "type": "W240, W320, W180 grades",
+                "moisture": "5.0% max",
+                "admixture": "1.0% max",
+                "purity": "98%"
+            },
+            "packaging": {
+                "packaging": "In 25kg cartons.",
+                "delivery_detail": "Within 15 days from order confirmation."
+            }
+        },
+        "fr": {
+            "name": "Noix de cajou en gros",
+            "category": "Noix de cajou vietnamiennes de qualité supérieure W240, W320, W180 disponibles! Issues directement du Vietnam, nos noix de cajou de haute qualité sont croquantes, délicieuses et riches en nutriments! Disponibles en grades W240, W320 et W180, idéales pour les encas, la cuisson et l'utilisation commerciale. Les commandes en gros sont disponibles à des prix compétitifs! Fraîches, biologiques et expédiées dans le monde entier! Contactez-nous maintenant pour passer votre commande!",
+            "origin": "Vietnam",
+            "specification": "Noix et noyaux",
+            "shelfLife": "24 mois",
+            "storage": "Endroit frais et sec",
+            "style": "Humidité de 5%",
+            "type": "Agricole",
+            "specification_detail": {
+                "type": "Grades W240, W320, W180",
+                "moisture": "5.0% max",
+                "admixture": "1.0% max",
+                "purity": "98%"
+            },
+            "packaging": {
+                "packaging": "Dans des cartons de 25 kg.",
+                "delivery_detail": "Dans les 15 jours suivant la confirmation de la commande."
+            }
+        },
+        "ar": {
+            "name": "كاجو بالجملة",
+            "category": "جوز الكاجو الفيتنامي عالي الجودة W240، W320، W180 متاح! مصدر مباشرة من فيتنام، جوز الكاجو عالي الجودة لدينا مقرمش، لذيذ، ومليء بالعناصر الغذائية! متاح بجودة W240، W320، و W180، مثالي للت-snacking، الطهي، والاستخدام التجاري. الطلبات بالجملة متوفرة بأسعار تنافسية! طازج، عضوي، ويتم شحنه عالميًا! اتصل بنا الآن لتقديم طلبك!",
+            "origin": "فيتنام",
+            "specification": "مكسرات ولب",
+            "shelfLife": "24 شهرًا",
+            "storage": "مكان بارد وجاف",
+            "style": "رطوبة 5%",
+            "type": "زراعي",
+            "specification_detail": {
+                "type": "درجات W240، W320، W180",
+                "moisture": "5.0% كحد أقصى",
+                "admixture": "1.0% كحد أقصى",
+                "purity": "98%"
+            },
+            "packaging": {
+                "packaging": "في علب 25 كجم.",
+                "delivery_detail": "في غضون 15 يومًا من تأكيد الطلب."
+            }
+        },
+        "ru": {
+            "name": "Оптовые кешью",
+            "category": "Премиальные вьетнамские кешью W240, W320, W180 в наличии! Прямо из Вьетнама, наши кешью высокого качества хрустящие, вкусные и наполнены питательными веществами! Доступны в сортах W240, W320 и W180, идеально подходят для перекусов, готовки и коммерческого использования. Оптовые заказы по конкурентоспособным ценам! Свежие, органические, с доставкой по всему миру! Свяжитесь с нами, чтобы сделать заказ!",
+            "origin": "Вьетнам",
+            "specification": "Орехи и ядра",
+            "shelfLife": "24 месяца",
+            "storage": "Хранить в прохладном и сухом месте",
+            "style": "5% влажность",
+            "type": "Сельскохозяйственные",
+            "specification_detail": {
+                "type": "W240, W320, W180 сорта",
+                "moisture": "5.0% макс.",
+                "admixture": "1.0% макс.",
+                "purity": "98%"
+            },
+            "packaging": {
+                "packaging": "В коробках по 25 кг.",
+                "delivery_detail": "В течение 15 дней с момента подтверждения заказа."
+            }
+        }
+    },
+    {
+        "image": "/products/soybean.jpg",
+        "name": "Bulk Non-GMO Soybean",
+        "en": {
+            "name": "Bulk Non-GMO Soybean",
+            "category": "High Grade Non-GMO Organic Yellow Soybeans. Wholesome, nutritious, and packed with protein! Our premium dried soybeans are perfect for a variety of dishes such as soups, salads, tofu, soy milk, and more. 100% organic & non-GMO, delivering pure goodness straight to your table. Available in bulk at competitive prices! Global shipping is available. Order now and experience the best in quality soybeans!",
+            "origin": "Ukraine",
+            "specification": "Soybean",
+            "shelfLife": "2 Years",
+            "storage": "Dry place",
+            "style": "Dry place",
+            "type": "Agricultural",
+            "specification_detail": {
+                "type": "Non-GMO organic yellow soybeans",
+                "moisture": "13% max",
+                "admixture": "2.0% max",
+                "purity": "99%"
+            },
+            "packaging": {
+                "packaging": "In 50kg jute bags.",
+                "delivery_detail": "Within 15 days from order confirmation."
+            }
+        },
+        "fr": {
+            "name": "Soja non-OGM en gros",
+            "category": "Soja biologique jaune non-OGM de haute qualité. Nourrissant, riche en protéines et parfait pour une variété de plats tels que les soupes, les salades, le tofu, le lait de soja, et plus encore. 100% biologique et non-OGM, apportant la pureté directement à votre table. Disponible en gros à des prix compétitifs! Livraison mondiale disponible. Commandez maintenant et découvrez les meilleurs soja de qualité!",
+            "origin": "Ukraine",
+            "specification": "Soja",
+            "shelfLife": "2 ans",
+            "storage": "Endroit sec",
+            "style": "Endroit sec",
+            "type": "Agricole",
+            "specification_detail": {
+                "type": "Soja jaune biologique non-OGM",
+                "moisture": "13% max",
+                "admixture": "2.0% max",
+                "purity": "99%"
+            },
+            "packaging": {
+                "packaging": "Dans des sacs de jute de 50 kg.",
+                "delivery_detail": "Dans les 15 jours suivant la confirmation de la commande."
+            }
+        },
+        "ar": {
+            "name": "فول الصويا غير المعدل وراثيًا بالجملة",
+            "category": "فول الصويا الأصفر العضوي غير المعدل وراثيًا عالي الجودة. مغذي، غني بالبروتين ومثالي لمجموعة متنوعة من الأطباق مثل الحساء، والسلطات، والتوفو، وحليب الصويا، والمزيد. 100% عضوي وغير معدل وراثيًا، يقدم النقاء مباشرة إلى طاولتك. متوفر بالجملة بأسعار تنافسية! الشحن العالمي متاح. اطلب الآن واختبر أفضل جودة لفول الصويا!",
+            "origin": "أوكرانيا",
+            "specification": "فول الصويا",
+            "shelfLife": "سنتان",
+            "storage": "مكان جاف",
+            "style": "مكان جاف",
+            "type": "زراعي",
+            "specification_detail": {
+                "type": "فول الصويا الأصفر العضوي غير المعدل وراثيًا",
+                "moisture": "13% كحد أقصى",
+                "admixture": "2.0% كحد أقصى",
+                "purity": "99%"
+            },
+            "packaging": {
+                "packaging": "في أكياس خيش 50 كجم.",
+                "delivery_detail": "في غضون 15 يومًا من تأكيد الطلب."
+            }
+        },
+        "ru": {
+            "name": "Оптовая соя без ГМО",
+            "category": "Высококачественная органическая желтая соя без ГМО. Полезная, питательная и богатая белком! Наши премиальные сушеные соевые бобы идеально подходят для различных блюд, таких как супы, салаты, тофу, соевое молоко и многое другое. 100% органическое и без ГМО, доставляющее чистоту прямо на ваш стол. Доступно оптом по конкурентоспособным ценам! Доставка по всему миру. Закажите сейчас и получите соевые бобы высшего качества!",
+            "origin": "Украина",
+            "specification": "Соя",
+            "shelfLife": "2 года",
+            "storage": "Сухое место",
+            "style": "Сухое место",
+            "type": "Сельскохозяйственные",
+            "specification_detail": {
+                "type": "Органическая желтая соя без ГМО",
+                "moisture": "13% макс.",
+                "admixture": "2.0% макс.",
+                "purity": "99%"
+            },
+            "packaging": {
+                "packaging": "В мешках из джута по 50 кг.",
+                "delivery_detail": "В течение 15 дней с момента подтверждения заказа."
+            }
+        }
+    },
+    {
+        "image": "/products/honey.jpg",
+        "name": "Wholesale Pure Natural Honey",
+        "en": {
+            "name": "Wholesale Pure Natural Honey",
+            "category": "Honey is a widely known natural food produced by bees. Bees suck nectar from flowers, store it in their second stomach, and return to the hive for worker bees to process the nectar using enzymes. The honey is then stored in honeycomb cells where it is transformed into honey and preserved by sealing the cells with beeswax. Mono-flower honey comes from one flower type, while multi-flower honey is a blend of different nectar types. Well-known varieties include acacia, milkvetch, linden, and more.",
+            "origin": "Ukraine",
+            "specification": "Honey",
+            "shelfLife": "2 Years",
+            "storage": "Dry place",
+            "style": "Dry place",
+            "type": "Agricultural",
+            "specification_detail": {
+                "type": "Multi-flower honey",
+                "moisture": "18% max",
+                "admixture": "2.0% max",
+                "purity": "98%"
+            },
+            "packaging": {
+                "packaging": "In 20kg plastic drums.",
+                "delivery_detail": "Within 15 days from order confirmation."
+            }
+        },
+        "fr": {
+            "name": "Miel pur naturel en gros",
+            "category": "Le miel est un aliment naturel largement connu, produit par les abeilles. Les abeilles sucent le nectar des fleurs, le stockent dans leur second estomac, puis retournent à la ruche pour que les abeilles ouvrières le transforment en utilisant des enzymes. Le miel est ensuite stocké dans des cellules de rayon de miel où il est transformé en miel et conservé par scellage des cellules avec de la cire d'abeille. Le miel mono-floral provient d'un seul type de fleur, tandis que le miel multi-floral est un mélange de différents types de nectar. Les variétés bien connues comprennent l'acacia, le sainfoin, le tilleul, et plus encore.",
+            "origin": "Ukraine",
+            "specification": "Miel",
+            "shelfLife": "2 ans",
+            "storage": "Endroit sec",
+            "style": "Endroit sec",
+            "type": "Agricole",
+            "specification_detail": {
+                "type": "Miel multi-floral",
+                "moisture": "18% max",
+                "admixture": "2.0% max",
+                "purity": "98%"
+            },
+            "packaging": {
+                "packaging": "En fûts plastiques de 20 kg.",
+                "delivery_detail": "Dans les 15 jours suivant la confirmation de la commande."
+            }
+        },
+        "ar": {
+            "name": "عسل طبيعي بالجملة",
+            "category": "العسل هو غذاء طبيعي معروف على نطاق واسع يتم إنتاجه بواسطة النحل. تمتص النحل الرحيق من الأزهار وتخزنه في معدتها الثانية، ثم تعود إلى الخلية ليقوم النحل العامل بتحويل الرحيق باستخدام الإنزيمات. يتم تخزين العسل في خلايا قرص العسل حيث يتم تحويله إلى عسل ويتم الحفاظ عليه عن طريق ختم الخلايا بشمع النحل. العسل أحادي الزهرة يأتي من نوع واحد من الأزهار، بينما العسل متعدد الزهور هو مزيج من أنواع مختلفة من الرحيق. تشمل الأنواع المعروفة الأكاسيا، الحميض، الزيزفون، والمزيد.",
+            "origin": "أوكرانيا",
+            "specification": "عسل",
+            "shelfLife": "سنتان",
+            "storage": "مكان جاف",
+            "style": "مكان جاف",
+            "type": "زراعي",
+            "specification_detail": {
+                "type": "عسل متعدد الزهور",
+                "moisture": "18% كحد أقصى",
+                "admixture": "2.0% كحد أقصى",
+                "purity": "98%"
+            },
+            "packaging": {
+                "packaging": "في براميل بلاستيكية 20 كجم.",
+                "delivery_detail": "في غضون 15 يومًا من تأكيد الطلب."
+            }
+        },
+        "ru": {
+            "name": "Оптовый чистый натуральный мед",
+            "category": "Мед – это широко известный натуральный продукт, производимый пчелами. Пчелы собирают нектар с цветов, хранят его в своем втором желудке, а затем возвращаются в улей, где рабочие пчелы обрабатывают нектар с помощью ферментов. Мед затем хранится в ячейках сот, где он превращается в мед и сохраняется путем запечатывания ячеек пчелиным воском. Одноцветный мед получается из одного типа цветка, в то время как многозаводный мед – это смесь нектаров различных цветов. Известные разновидности включают акацию, молочай, липу и другие.",
+            "origin": "Украина",
+            "specification": "Мед",
+            "shelfLife": "2 года",
+            "storage": "Сухое место",
+            "style": "Сухое место",
+            "type": "Сельскохозяйственные",
+            "specification_detail": {
+                "type": "Многозаводный мед",
+                "moisture": "18% макс.",
+                "admixture": "2.0% макс.",
+                "purity": "98%"
+            },
+            "packaging": {
+                "packaging": "В пластиковых бочках по 20 кг.",
+                "delivery_detail": "В течение 15 дней с момента подтверждения заказа."
+            }
+        }
+    },
+    {
+        "image": "/products/cattle.jpg",
+        "name": "Grass-Fed Cattle",
+        "en": {
+            "name": "Grass-Fed Cattle",
+            "category": "Cattle are domesticated livestock raised primarily for meat (beef), milk, and hides. Our cattle are grass-fed and free-range, ensuring they grow naturally without artificial growth enhancers. Raised in a stress-free environment, they develop lean, flavorful meat with rich marbling. They are classified into beef cattle, like Angus and Hereford, and dairy cattle, such as Holstein and Jersey.",
+            "origin": "Ukraine",
+            "specification": "Cattle",
+            "shelfLife": "Frozen for up to 12 months",
+            "storage": "Refrigerated or frozen",
+            "style": "Fresh",
+            "type": "Livestock",
+            "specification_detail": {
+                "type": "Grass-fed, free-range beef",
+                "moisture": "60% max",
+                "admixture": "1.5% max",
+                "purity": "100%"
+            },
+            "packaging": {
+                "packaging": "In vacuum-sealed packs.",
+                "delivery_detail": "Within 15 days from order confirmation."
+            }
+        },
+        "fr": {
+            "name": "Bétail nourri à l'herbe",
+            "category": "Les bovins sont des animaux domestiqués élevés principalement pour leur viande (bœuf), leur lait et leur peau. Nos bovins sont nourris à l'herbe et en liberté, garantissant qu'ils grandissent naturellement sans stimulants de croissance artificiels. Élevés dans un environnement sans stress, ils développent une viande maigre et savoureuse avec un marbrage riche. Ils sont classés en bétail à viande, comme l'Angus et le Hereford, et en bétail laitier, comme le Holstein et le Jersey.",
+            "origin": "Ukraine",
+            "specification": "Bétail",
+            "shelfLife": "Congelé jusqu'à 12 mois",
+            "storage": "Réfrigéré ou congelé",
+            "style": "Frais",
+            "type": "Bétail",
+            "specification_detail": {
+                "type": "Bœuf nourri à l'herbe et élevé en liberté",
+                "moisture": "60% max",
+                "admixture": "1.5% max",
+                "purity": "100%"
+            },
+            "packaging": {
+                "packaging": "Dans des packs sous vide.",
+                "delivery_detail": "Dans les 15 jours suivant la confirmation de la commande."
+            }
+        },
+        "ar": {
+            "name": "الماشية المرباة على العشب",
+            "category": "الماشية هي حيوانات منزلية تربى أساسًا من أجل اللحوم (اللحم البقري) والحليب والجلود. ماشيتنا تتغذى على العشب وتعيش في مراعٍ مفتوحة، مما يضمن نموها بشكل طبيعي دون محفزات نمو صناعية. تربية في بيئة خالية من التوتر، تنمو لحومها لتكون خالية من الدهون ولذيذة مع طبقات من الدهن. تنقسم إلى ماشية لحوم، مثل أنغوس و هيرفورد، وماشية ألبان مثل هولشتاين وجيرسي.",
+            "origin": "أوكرانيا",
+            "specification": "ماشية",
+            "shelfLife": "مجمدة لمدة تصل إلى 12 شهرًا",
+            "storage": "مبردة أو مجمدة",
+            "style": "طازجة",
+            "type": "حيوانات",
+            "specification_detail": {
+                "type": "لحم بقري مربي على العشب والمراعي الحرة",
+                "moisture": "60% كحد أقصى",
+                "admixture": "1.5% كحد أقصى",
+                "purity": "100%"
+            },
+            "packaging": {
+                "packaging": "في عبوات محكمة الإغلاق.",
+                "delivery_detail": "في غضون 15 يومًا من تأكيد الطلب."
+            }
+        },
+        "ru": {
+            "name": "Коровы на траве",
+            "category": "Коровы – это домашний скот, выращиваемый в основном для мяса (говядина), молока и шкур. Наши коровы питаются травой и свободно пасутся, что гарантирует их естественное развитие без искусственных стимуляторов роста. Выращенные в условиях низкого стресса, они развивают постное мясо с богатым мраморным рисунком. Коровы классифицируются как мясной скот, например, Ангус и Херефорд, и молочный скот, такой как Голштин и Джерси.",
+            "origin": "Украина",
+            "specification": "Коровы",
+            "shelfLife": "Замороженные до 12 месяцев",
+            "storage": "Хранить в холодильнике или морозильной камере",
+            "style": "Свежий",
+            "type": "Скот",
+            "specification_detail": {
+                "type": "Говядина на траве и свободный выпас",
+                "moisture": "60% макс.",
+                "admixture": "1.5% макс.",
+                "purity": "100%"
+            },
+            "packaging": {
+                "packaging": "В вакуумной упаковке.",
+                "delivery_detail": "В течение 15 дней с момента подтверждения заказа."
+            }
+        }
+    },
+    {
+        "image": "/products/beam.jpg",
+        "name": "Wholesale Steel Beam",
+        "en": {
+            "name": "Wholesale Steel Beam",
+            "category": "Structural Steel",
+            "origin": "Ukraine",
+            "specification": "Wholesale Steel Beam",
+            "shelfLife": "N/A",
+            "storage": "Store in a dry, covered area",
+            "style": "Structural Steel",
+            "type": "Metal",
+            "specification_detail": {
+                "type": "Hot-rolled, high-strength steel",
+                "moisture": "N/A",
+                "admixture": "N/A",
+                "purity": "100% steel"
+            },
+            "packaging": {
+                "packaging": "Bundled and strapped for transport",
+                "delivery_detail": "Dispatched within 15 days after order confirmation"
+            }
+        },
+        "fr": {
+            "name": "Acier en U",
+            "category": "Acier structurel",
+            "origin": "Ukraine",
+            "specification": "Acier en U",
+            "shelfLife": "N/A",
+            "storage": "Stocker dans un endroit sec et couvert",
+            "style": "Acier structurel",
+            "type": "Métal",
+            "specification_detail": {
+                "type": "Acier laminé à chaud, haute résistance",
+                "moisture": "N/A",
+                "admixture": "N/A",
+                "purity": "100% acier"
+            },
+            "packaging": {
+                "packaging": "Conditionné en lots et sanglé pour le transport",
+                "delivery_detail": "Expédié dans les 15 jours suivant la confirmation de la commande"
+            }
+        },
+        "ar": {
+            "name": "فولاذ القناة على شكل U",
+            "category": "الفولاذ الهيكلي",
+            "origin": "أوكرانيا",
+            "specification": "فولاذ القناة على شكل U",
+            "shelfLife": "غير متاح",
+            "storage": "يُحفظ في مكان جاف ومغطى",
+            "style": "فولاذ إنشائي",
+            "type": "معدن",
+            "specification_detail": {
+                "type": "فولاذ مدرفل على الساخن وعالي القوة",
+                "moisture": "غير متاح",
+                "admixture": "غير متاح",
+                "purity": "100% فولاذ"
+            },
+            "packaging": {
+                "packaging": "يتم تجميعه وربطه للنقل",
+                "delivery_detail": "يتم الشحن خلال 15 يومًا من تأكيد الطلب"
+            }
+        },
+        "ru": {
+            "name": "U-образный стальной профиль",
+            "category": "Структурная сталь",
+            "origin": "Украина",
+            "specification": "U-образный стальной профиль",
+            "shelfLife": "N/A",
+            "storage": "Хранить в сухом, закрытом помещении",
+            "style": "Структурная сталь",
+            "type": "Металл",
+            "specification_detail": {
+                "type": "Горячекатаная, высокопрочная сталь",
+                "moisture": "N/A",
+                "admixture": "N/A",
+                "purity": "100% сталь"
+            },
+            "packaging": {
+                "packaging": "Упаковано в связки и закреплено для транспортировки",
+                "delivery_detail": "Отправка в течение 15 дней после подтверждения заказа"
+            }
+        }
+    },
+    {
+        "image": "/products/bar.jpg",
+        "name": "Reinforcing Steel Bar",
+        "en": {
+            "name": "Reinforcing Steel Bar",
+            "category": "Structural Steel",
+            "origin": "Ukraine",
+            "specification": "Reinforcing Steel Bar",
+            "shelfLife": "N/A",
+            "storage": "Store in a dry, covered area",
+            "style": "Structural Steel",
+            "type": "Metal",
+            "specification_detail": {
+                "type": "Hot-rolled, high-strength steel",
+                "moisture": "N/A",
+                "admixture": "N/A",
+                "purity": "100% steel"
+            },
+            "packaging": {
+                "packaging": "Bundled and strapped for transport",
+                "delivery_detail": "Dispatched within 15 days after order confirmation"
+            }
+        },
+        "fr": {
+            "name": "Barre d'acier d'armature",
+            "category": "Acier structurel",
+            "origin": "Ukraine",
+            "specification": "Barre d'acier d'armature",
+            "shelfLife": "N/A",
+            "storage": "Stocker dans un endroit sec et couvert",
+            "style": "Acier structurel",
+            "type": "Métal",
+            "specification_detail": {
+                "type": "Acier laminé à chaud, haute résistance",
+                "moisture": "N/A",
+                "admixture": "N/A",
+                "purity": "100% acier"
+            },
+            "packaging": {
+                "packaging": "Conditionné en lots et sanglé pour le transport",
+                "delivery_detail": "Expédié dans les 15 jours suivant la confirmation de la commande"
+            }
+        },
+        "ar": {
+            "name": "حديد التسليح",
+            "category": "الفولاذ الهيكلي",
+            "origin": "أوكرانيا",
+            "specification": "حديد التسليح",
+            "shelfLife": "غير متاح",
+            "storage": "يُحفظ في مكان جاف ومغطى",
+            "style": "فولاذ إنشائي",
+            "type": "معدن",
+            "specification_detail": {
+                "type": "فولاذ مدرفل على الساخن وعالي القوة",
+                "moisture": "غير متاح",
+                "admixture": "غير متاح",
+                "purity": "100% فولاذ"
+            },
+            "packaging": {
+                "packaging": "يتم تجميعه وربطه للنقل",
+                "delivery_detail": "يتم الشحن خلال 15 يومًا من تأكيد الطلب"
+            }
+        },
+        "ru": {
+            "name": "Арматурная сталь",
+            "category": "Структурная сталь",
+            "origin": "Украина",
+            "specification": "Арматурная сталь",
+            "shelfLife": "N/A",
+            "storage": "Хранить в сухом, закрытом помещении",
+            "style": "Структурная сталь",
+            "type": "Металл",
+            "specification_detail": {
+                "type": "Горячекатаная, высокопрочная сталь",
+                "moisture": "N/A",
+                "admixture": "N/A",
+                "purity": "100% сталь"
+            },
+            "packaging": {
+                "packaging": "Упаковано в связки и закреплено для транспортировки",
+                "delivery_detail": "Отправка в течение 15 дней после подтверждения заказа"
+            }
+        }
+    },
+    {
+        "image": "/products/billets.jpg",
+        "name": "Steel Billets",
+        "en": {
+            "name": "Steel Billets",
+            "category": "Structural Steel",
+            "origin": "Ukraine",
+            "specification": "Steel Billets",
+            "shelfLife": "N/A",
+            "storage": "Store in a dry, covered area",
+            "style": "Structural Steel",
+            "type": "Metal",
+            "specification_detail": {
+                "type": "Hot-rolled, high-strength steel",
+                "moisture": "N/A",
+                "admixture": "N/A",
+                "purity": "100% steel"
+            },
+            "packaging": {
+                "packaging": "Bundled and strapped for transport",
+                "delivery_detail": "Dispatched within 15 days after order confirmation"
+            }
+        },
+        "fr": {
+            "name": "Billettes d'acier",
+            "category": "Acier structurel",
+            "origin": "Ukraine",
+            "specification": "Billettes d'acier",
+            "shelfLife": "N/A",
+            "storage": "Stocker dans un endroit sec et couvert",
+            "style": "Acier structurel",
+            "type": "Métal",
+            "specification_detail": {
+                "type": "Acier laminé à chaud, haute résistance",
+                "moisture": "N/A",
+                "admixture": "N/A",
+                "purity": "100% acier"
+            },
+            "packaging": {
+                "packaging": "Conditionné en lots et sanglé pour le transport",
+                "delivery_detail": "Expédié dans les 15 jours suivant la confirmation de la commande"
+            }
+        },
+        "ar": {
+            "name": "كتل فولاذية",
+            "category": "الفولاذ الهيكلي",
+            "origin": "أوكرانيا",
+            "specification": "كتل فولاذية",
+            "shelfLife": "غير متاح",
+            "storage": "يُحفظ في مكان جاف ومغطى",
+            "style": "فولاذ إنشائي",
+            "type": "معدن",
+            "specification_detail": {
+                "type": "فولاذ مدرفل على الساخن وعالي القوة",
+                "moisture": "غير متاح",
+                "admixture": "غير متاح",
+                "purity": "100% فولاذ"
+            },
+            "packaging": {
+                "packaging": "يتم تجميعه وربطه للنقل",
+                "delivery_detail": "يتم الشحن خلال 15 يومًا من تأكيد الطلب"
+            }
+        },
+        "ru": {
+            "name": "Сталевые заготовки",
+            "category": "Структурная сталь",
+            "origin": "Украина",
+            "specification": "Сталевые заготовки",
+            "shelfLife": "N/A",
+            "storage": "Хранить в сухом, закрытом помещении",
+            "style": "Структурная сталь",
+            "type": "Металл",
+            "specification_detail": {
+                "type": "Горячекатаная, высокопрочная сталь",
+                "moisture": "N/A",
+                "admixture": "N/A",
+                "purity": "100% сталь"
+            },
+            "packaging": {
+                "packaging": "Упаковано в связки и закреплено для транспортировки",
+                "delivery_detail": "Отправка в течение 15 дней после подтверждения заказа"
+            }
+        }
+    },
+    {
+        "image": "/products/sheets.jpg",
+        "name": "Hot and Cold Rolled Coil and Sheets",
+        "en": {
+            "name": "Hot and Cold Rolled Coil and Sheets",
+            "category": "Structural Steel",
+            "origin": "Ukraine",
+            "specification": "Hot and Cold Rolled Coil and Sheets",
+            "shelfLife": "N/A",
+            "storage": "Store in a dry, covered area",
+            "style": "Structural Steel",
+            "type": "Metal",
+            "specification_detail": {
+                "type": "Hot-rolled and cold-rolled high-strength steel",
+                "moisture": "N/A",
+                "admixture": "N/A",
+                "purity": "100% steel"
+            },
+            "packaging": {
+                "packaging": "Bundled and strapped for transport",
+                "delivery_detail": "Dispatched within 15 days after order confirmation"
+            }
+        },
+        "fr": {
+            "name": "Bobines et tôles laminées à chaud et à froid",
+            "category": "Acier structurel",
+            "origin": "Ukraine",
+            "specification": "Bobines et tôles laminées à chaud et à froid",
+            "shelfLife": "N/A",
+            "storage": "Stocker dans un endroit sec et couvert",
+            "style": "Acier structurel",
+            "type": "Métal",
+            "specification_detail": {
+                "type": "Acier laminé à chaud et à froid, haute résistance",
+                "moisture": "N/A",
+                "admixture": "N/A",
+                "purity": "100% acier"
+            },
+            "packaging": {
+                "packaging": "Conditionné en lots et sanglé pour le transport",
+                "delivery_detail": "Expédié dans les 15 jours suivant la confirmation de la commande"
+            }
+        },
+        "ar": {
+            "name": "اللفائف والصفائح المدرفلة على الساخن والبارد",
+            "category": "الفولاذ الهيكلي",
+            "origin": "أوكرانيا",
+            "specification": "اللفائف والصفائح المدرفلة على الساخن والبارد",
+            "shelfLife": "غير متاح",
+            "storage": "يُحفظ في مكان جاف ومغطى",
+            "style": "فولاذ إنشائي",
+            "type": "معدن",
+            "specification_detail": {
+                "type": "فولاذ مدرفل على الساخن والبارد وعالي القوة",
+                "moisture": "غير متاح",
+                "admixture": "غير متاح",
+                "purity": "100% فولاذ"
+            },
+            "packaging": {
+                "packaging": "يتم تجميعه وربطه للنقل",
+                "delivery_detail": "يتم الشحن خلال 15 يومًا من تأكيد الطلب"
+            }
+        },
+        "ru": {
+            "name": "Горячекатаный и холоднокатаный рулон и листы",
+            "category": "Структурная сталь",
+            "origin": "Украина",
+            "specification": "Горячекатаный и холоднокатаный рулон и листы",
+            "shelfLife": "N/A",
+            "storage": "Хранить в сухом, закрытом помещении",
+            "style": "Структурная сталь",
+            "type": "Металл",
+            "specification_detail": {
+                "type": "Горячекатаная и холоднокатаная высокопрочная сталь",
+                "moisture": "N/A",
+                "admixture": "N/A",
+                "purity": "100% сталь"
+            },
+            "packaging": {
+                "packaging": "Упаковано в связки и закреплено для транспортировки",
+                "delivery_detail": "Отправка в течение 15 дней после подтверждения заказа"
+            }
+        }
+    },
+    {
+        "image": "/products/steel.jpg",
+        "name": "U-Channel Steel",
+        "en": {
+            "name": "U-Channel Steel",
+            "category": "Structural Steel",
+            "origin": "Ukraine",
+            "specification": "U-Channel Steel",
+            "shelfLife": "N/A",
+            "storage": "Store in a dry, covered area",
+            "style": "Structural Steel",
+            "type": "Metal",
+            "specification_detail": {
+                "type": "Hot-rolled and cold-rolled high-strength steel",
+                "moisture": "N/A",
+                "admixture": "N/A",
+                "purity": "100% steel"
+            },
+            "packaging": {
+                "packaging": "Bundled and strapped for transport",
+                "delivery_detail": "Dispatched within 15 days after order confirmation"
+            }
+        },
+        "fr": {
+            "name": "U-Channel Steel",
+            "category": "Acier structurel",
+            "origin": "Ukraine",
+            "specification": "U-Channel Steel",
+            "shelfLife": "N/A",
+            "storage": "Stocker dans un endroit sec et couvert",
+            "style": "Acier structurel",
+            "type": "Métal",
+            "specification_detail": {
+                "type": "Acier à haute résistance laminé à chaud et à froid",
+                "moisture": "N/A",
+                "admixture": "N/A",
+                "purity": "100% acier"
+            },
+            "packaging": {
+                "packaging": "Conditionné en lots et sanglé pour le transport",
+                "delivery_detail": "Expédié dans les 15 jours suivant la confirmation de la commande"
+            }
+        },
+        "ar": {
+            "name": "U-Channel Steel",
+            "category": "الفولاذ الهيكلي",
+            "origin": "أوكرانيا",
+            "specification": "U-Channel Steel",
+            "shelfLife": "غير متاح",
+            "storage": "يُحفظ في مكان جاف ومغطى",
+            "style": "فولاذ إنشائي",
+            "type": "معدن",
+            "specification_detail": {
+                "type": "فولاذ مدرفل على الساخن والبارد وعالي القوة",
+                "moisture": "غير متاح",
+                "admixture": "غير متاح",
+                "purity": "100% فولاذ"
+            },
+            "packaging": {
+                "packaging": "يتم تجميعه وربطه للنقل",
+                "delivery_detail": "يتم الشحن خلال 15 يومًا من تأكيد الطلب"
+            }
+        },
+        "ru": {
+            "name": "U-Channel Steel",
+            "category": "Структурная сталь",
+            "origin": "Украина",
+            "specification": "U-Channel Steel",
+            "shelfLife": "N/A",
+            "storage": "Хранить в сухом, закрытом помещении",
+            "style": "Структурная сталь",
+            "type": "Металл",
+            "specification_detail": {
+                "type": "Горячекатаная и холоднокатаная высокопрочная сталь",
+                "moisture": "N/A",
+                "admixture": "N/A",
+                "purity": "100% сталь"
+            },
+            "packaging": {
+                "packaging": "Упаковано в связки и закреплено для транспортировки",
+                "delivery_detail": "Отправка в течение 15 дней после подтверждения заказа"
+            }
+        }
+    },
+    {
+        "image": "/products/sugar.jpg",
+        "name": "Wholesale Sugar",
+        "en": {
+            "name": "Wholesale Sugar",
+            "category": "Food Products",
+            "origin": "Ukraine",
+            "specification": "Wholesale Sugar",
+            "shelfLife": "N/A",
+            "storage": "Store in a dry, covered area",
+            "style": "Food Product",
+            "type": "Sugar",
+            "specification_detail": {
+                "type": "Granulated sugar",
+                "moisture": "N/A",
+                "admixture": "N/A",
+                "purity": "100% sugar"
+            },
+            "packaging": {
+                "packaging": "Packed in bags for transport",
+                "delivery_detail": "Dispatched within 15 days after order confirmation"
+            }
+        },
+        "fr": {
+            "name": "Sucre en gros",
+            "category": "Produits alimentaires",
+            "origin": "Ukraine",
+            "specification": "Sucre en gros",
+            "shelfLife": "N/A",
+            "storage": "Stocker dans un endroit sec et couvert",
+            "style": "Produit alimentaire",
+            "type": "Sucre",
+            "specification_detail": {
+                "type": "Sucre cristallisé",
+                "moisture": "N/A",
+                "admixture": "N/A",
+                "purity": "100% sucre"
+            },
+            "packaging": {
+                "packaging": "Emballé dans des sacs pour le transport",
+                "delivery_detail": "Expédié dans les 15 jours suivant la confirmation de la commande"
+            }
+        },
+        "ar": {
+            "name": "سكر بالجملة",
+            "category": "منتجات غذائية",
+            "origin": "أوكرانيا",
+            "specification": "سكر بالجملة",
+            "shelfLife": "غير متاح",
+            "storage": "يُحفظ في مكان جاف ومغطى",
+            "style": "منتج غذائي",
+            "type": "سكر",
+            "specification_detail": {
+                "type": "سكر حبيبي",
+                "moisture": "غير متاح",
+                "admixture": "غير متاح",
+                "purity": "100% سكر"
+            },
+            "packaging": {
+                "packaging": "معبأ في أكياس للنقل",
+                "delivery_detail": "يتم الشحن خلال 15 يومًا من تأكيد الطلب"
+            }
+        },
+        "ru": {
+            "name": "Оптовый сахар",
+            "category": "Продукты питания",
+            "origin": "Украина",
+            "specification": "Оптовый сахар",
+            "shelfLife": "N/A",
+            "storage": "Хранить в сухом, закрытом помещении",
+            "style": "Пищевой продукт",
+            "type": "Сахар",
+            "specification_detail": {
+                "type": "Кристаллический сахар",
+                "moisture": "N/A",
+                "admixture": "N/A",
+                "purity": "100% сахар"
+            },
+            "packaging": {
+                "packaging": "Упаковано в мешки для транспортировки",
+                "delivery_detail": "Отправка в течение 15 дней после подтверждения заказа"
+            }
+        }
+    },
+    {
+        "image": "/products/wheat.jpg",
+        "name": "Bulk Wheat",
+        "en": {
+            "name": "Bulk Wheat",
+            "category": "Premium quality wheat, freshly harvested and packed with nutrients. Naturally rich in fiber, protein, and essential vitamins, perfect for human consumption and animal feed. Available in bulk at competitive prices. Global shipping available. Secure your supply today for the best quality wheat!",
+            "origin": "Ukraine",
+            "specification": "Grain",
+            "specification_detail": {
+                "type": "Whole grain",
+                "moisture": "12% max",
+                "admixture": "1% max",
+                "purity": "98%"
+            },
+            "shelfLife": "12 Months",
+            "storage": "Cool, dry place",
+            "style": "Dried",
+            "type": "Agricultural",
+            "packaging": {
+                "packaging": "Packed in 50kg woven polypropylene bags.",
+                "delivery_detail": "Within 15 days from order confirmation."
+            }
+        },
+        "fr": {
+            "name": "Blé en vrac",
+            "category": "Blé de qualité supérieure, fraîchement récolté et emballé avec des nutriments. Naturellement riche en fibres, protéines et vitamines essentielles, parfait pour la consommation humaine et l'alimentation animale. Disponible en vrac à des prix compétitifs. Expédition mondiale disponible. Assurez votre approvisionnement dès aujourd'hui pour la meilleure qualité de blé!",
+            "origin": "Ukraine",
+            "specification": "Grain",
+            "specification_detail": {
+                "type": "Grain entier",
+                "moisture": "12% max",
+                "admixture": "1% max",
+                "purity": "98%"
+            },
+            "shelfLife": "12 mois",
+            "storage": "Endroit frais et sec",
+            "style": "Séchée",
+            "type": "Agricole",
+            "packaging": {
+                "packaging": "Emballé dans des sacs en polypropylène de 50 kg.",
+                "delivery_detail": "Dans les 15 jours suivant la confirmation de la commande."
+            }
+        },
+        "ar": {
+            "name": "قمح بالجملة",
+            "category": "قمح عالي الجودة، تم حصاده وتعبئته حديثًا مع العناصر الغذائية. غني بشكل طبيعي بالألياف والبروتينات والفيتامينات الأساسية، مثالي للاستهلاك البشري وتغذية الحيوانات. متاح بكميات كبيرة بأسعار تنافسية. الشحن العالمي متاح. تأمين إمداداتك اليوم للحصول على أفضل جودة قمح!",
+            "origin": "أوكرانيا",
+            "specification": "حبوب",
+            "specification_detail": {
+                "type": "حبوب كاملة",
+                "moisture": "12% كحد أقصى",
+                "admixture": "1% كحد أقصى",
+                "purity": "98%"
+            },
+            "shelfLife": "12 شهرًا",
+            "storage": "مكان بارد وجاف",
+            "style": "مُجفف",
+            "type": "زراعي",
+            "packaging": {
+                "packaging": "معبأ في أكياس بولي بروبيلين وزنها 50 كجم.",
+                "delivery_detail": "في غضون 15 يومًا من تأكيد الطلب."
+            }
+        },
+        "ru": {
+            "name": "Оптовая пшеница",
+            "category": "Пшеница премиум-класса, свежесобранная и упакованная с питательными веществами. Естественно богат клетчаткой, белками и необходимыми витаминами, идеально подходит для потребления людьми и кормления животных. Доступна оптом по конкурентоспособным ценам. Доступна международная доставка. Обеспечьте свой запас лучшей пшеницы уже сегодня!",
+            "origin": "Украина",
+            "specification": "Зерно",
+            "specification_detail": {
+                "type": "Цельное зерно",
+                "moisture": "12% макс.",
+                "admixture": "1% макс.",
+                "purity": "98%"
+            },
+            "shelfLife": "12 месяцев",
+            "storage": "Холодное, сухое место",
+            "style": "Сушеное",
+            "type": "Сельскохозяйственное",
+            "packaging": {
+                "packaging": "Упаковано в мешки из полиэтиленового пропилена по 50 кг.",
+                "delivery_detail": "В течение 15 дней с момента подтверждения заказа."
+            }
+        }
+    },
+    {
+        "image": "/products/wheat-flour.jpg",
+        "name": "Bulk Wheat Flour",
+        "en": {
+            "name": "Bulk Wheat Flour",
+            "category": "Premium quality wheat, freshly harvested and packed with nutrients. Naturally rich in fiber, protein, and essential vitamins, perfect for human consumption and animal feed. Available in bulk at competitive prices. Global shipping available. Secure your supply today for the best quality wheat!",
+            "origin": "Ukraine",
+            "specification": "Grain",
+            "specification_detail": {
+                "type": "Whole grain",
+                "moisture": "12% max",
+                "admixture": "1% max",
+                "purity": "98%"
+            },
+            "shelfLife": "12 Months",
+            "storage": "Cool, dry place",
+            "style": "Dried",
+            "type": "Agricultural",
+            "packaging": {
+                "packaging": "Packed in 50kg woven polypropylene bags.",
+                "delivery_detail": "Within 15 days from order confirmation."
+            }
+        },
+        "fr": {
+            "name": "Blé en vrac",
+            "category": "Blé de qualité supérieure, fraîchement récolté et emballé avec des nutriments. Naturellement riche en fibres, protéines et vitamines essentielles, parfait pour la consommation humaine et l'alimentation animale. Disponible en vrac à des prix compétitifs. Expédition mondiale disponible. Assurez votre approvisionnement dès aujourd'hui pour la meilleure qualité de blé!",
+            "origin": "Ukraine",
+            "specification": "Grain",
+            "specification_detail": {
+                "type": "Grain entier",
+                "moisture": "12% max",
+                "admixture": "1% max",
+                "purity": "98%"
+            },
+            "shelfLife": "12 mois",
+            "storage": "Endroit frais et sec",
+            "style": "Séchée",
+            "type": "Agricole",
+            "packaging": {
+                "packaging": "Emballé dans des sacs en polypropylène de 50 kg.",
+                "delivery_detail": "Dans les 15 jours suivant la confirmation de la commande."
+            }
+        },
+        "ar": {
+            "name": "قمح بالجملة",
+            "category": "قمح عالي الجودة، تم حصاده وتعبئته حديثًا مع العناصر الغذائية. غني بشكل طبيعي بالألياف والبروتينات والفيتامينات الأساسية، مثالي للاستهلاك البشري وتغذية الحيوانات. متاح بكميات كبيرة بأسعار تنافسية. الشحن العالمي متاح. تأمين إمداداتك اليوم للحصول على أفضل جودة قمح!",
+            "origin": "أوكرانيا",
+            "specification": "حبوب",
+            "specification_detail": {
+                "type": "حبوب كاملة",
+                "moisture": "12% كحد أقصى",
+                "admixture": "1% كحد أقصى",
+                "purity": "98%"
+            },
+            "shelfLife": "12 شهرًا",
+            "storage": "مكان بارد وجاف",
+            "style": "مُجفف",
+            "type": "زراعي",
+            "packaging": {
+                "packaging": "معبأ في أكياس بولي بروبيلين وزنها 50 كجم.",
+                "delivery_detail": "في غضون 15 يومًا من تأكيد الطلب."
+            }
+        },
+        "ru": {
+            "name": "Оптовая пшеница",
+            "category": "Пшеница премиум-класса, свежесобранная и упакованная с питательными веществами. Естественно богат клетчаткой, белками и необходимыми витаминами, идеально подходит для потребления людьми и кормления животных. Доступна оптом по конкурентоспособным ценам. Доступна международная доставка. Обеспечьте свой запас лучшей пшеницы уже сегодня!",
+            "origin": "Украина",
+            "specification": "Зерно",
+            "specification_detail": {
+                "type": "Цельное зерно",
+                "moisture": "12% макс.",
+                "admixture": "1% макс.",
+                "purity": "98%"
+            },
+            "shelfLife": "12 месяцев",
+            "storage": "Холодное, сухое место",
+            "style": "Сушеное",
+            "type": "Сельскохозяйственное",
+            "packaging": {
+                "packaging": "Упаковано в мешки из полиэтиленового пропилена по 50 кг.",
+                "delivery_detail": "В течение 15 дней с момента подтверждения заказа."
+            }
+        }
+    },
+    {
+        "image": "/products/alfalfa.jpg",
+        "name": "Bulk Alfalfa",
+        "en": {
+            "name": "Bulk Alfalfa",
+            "category": "Premium quality wheat, freshly harvested and packed with nutrients. Naturally rich in fiber, protein, and essential vitamins, perfect for human consumption and animal feed. Available in bulk at competitive prices. Global shipping available. Secure your supply today for the best quality wheat!",
+            "origin": "Ukraine",
+            "specification": "Grain",
+            "specification_detail": {
+                "type": "Whole grain",
+                "moisture": "12% max",
+                "admixture": "1% max",
+                "purity": "98%"
+            },
+            "shelfLife": "12 Months",
+            "storage": "Cool, dry place",
+            "style": "Dried",
+            "type": "Agricultural",
+            "packaging": {
+                "packaging": "Packed in 50kg woven polypropylene bags.",
+                "delivery_detail": "Within 15 days from order confirmation."
+            }
+        },
+        "fr": {
+            "name": "Blé en vrac",
+            "category": "Blé de qualité supérieure, fraîchement récolté et emballé avec des nutriments. Naturellement riche en fibres, protéines et vitamines essentielles, parfait pour la consommation humaine et l'alimentation animale. Disponible en vrac à des prix compétitifs. Expédition mondiale disponible. Assurez votre approvisionnement dès aujourd'hui pour la meilleure qualité de blé!",
+            "origin": "Ukraine",
+            "specification": "Grain",
+            "specification_detail": {
+                "type": "Grain entier",
+                "moisture": "12% max",
+                "admixture": "1% max",
+                "purity": "98%"
+            },
+            "shelfLife": "12 mois",
+            "storage": "Endroit frais et sec",
+            "style": "Séchée",
+            "type": "Agricole",
+            "packaging": {
+                "packaging": "Emballé dans des sacs en polypropylène de 50 kg.",
+                "delivery_detail": "Dans les 15 jours suivant la confirmation de la commande."
+            }
+        },
+        "ar": {
+            "name": "قمح بالجملة",
+            "category": "قمح عالي الجودة، تم حصاده وتعبئته حديثًا مع العناصر الغذائية. غني بشكل طبيعي بالألياف والبروتينات والفيتامينات الأساسية، مثالي للاستهلاك البشري وتغذية الحيوانات. متاح بكميات كبيرة بأسعار تنافسية. الشحن العالمي متاح. تأمين إمداداتك اليوم للحصول على أفضل جودة قمح!",
+            "origin": "أوكرانيا",
+            "specification": "حبوب",
+            "specification_detail": {
+                "type": "حبوب كاملة",
+                "moisture": "12% كحد أقصى",
+                "admixture": "1% كحد أقصى",
+                "purity": "98%"
+            },
+            "shelfLife": "12 شهرًا",
+            "storage": "مكان بارد وجاف",
+            "style": "مُجفف",
+            "type": "زراعي",
+            "packaging": {
+                "packaging": "معبأ في أكياس بولي بروبيلين وزنها 50 كجم.",
+                "delivery_detail": "في غضون 15 يومًا من تأكيد الطلب."
+            }
+        },
+        "ru": {
+            "name": "Оптовая пшеница",
+            "category": "Пшеница премиум-класса, свежесобранная и упакованная с питательными веществами. Естественно богат клетчаткой, белками и необходимыми витаминами, идеально подходит для потребления людьми и кормления животных. Доступна оптом по конкурентоспособным ценам. Доступна международная доставка. Обеспечьте свой запас лучшей пшеницы уже сегодня!",
+            "origin": "Украина",
+            "specification": "Зерно",
+            "specification_detail": {
+                "type": "Цельное зерно",
+                "moisture": "12% макс.",
+                "admixture": "1% макс.",
+                "purity": "98%"
+            },
+            "shelfLife": "12 месяцев",
+            "storage": "Холодное, сухое место",
+            "style": "Сушеное",
+            "type": "Сельскохозяйственное",
+            "packaging": {
+                "packaging": "Упаковано в мешки из полиэтиленового пропилена по 50 кг.",
+                "delivery_detail": "В течение 15 дней с момента подтверждения заказа."
+            }
+        }
+    },
+    {
+        "image": "/products/cold.jpg",
+        "name": "Cold Rolled Steel Bar",
+        "en": {
+            "name": "Cold Rolled Steel Bar",
+            "category": "Premium quality cold-rolled steel bars for industrial use, offering excellent tensile strength and durability. Perfect for construction, manufacturing, and engineering applications.",
+            "origin": "Ukraine",
+            "specification": "Steel",
+            "specification_detail": {
+                "type": "Cold rolled steel",
+                "thickness": "3mm – 20mm",
+                "surface_finish": "Smooth",
+                "tensile_strength": "350 MPa",
+                "yield_strength": "250 MPa"
+            },
+            "shelfLife": "Indefinite, as long as properly stored",
+            "storage": "Cool, dry place",
+            "style": "Cold rolled",
+            "type": "Industrial",
+            "packaging": {
+                "packaging": "Packed in bundles of 2 tons.",
+                "delivery_detail": "Within 20 days from order confirmation."
+            }
+        },
+        "fr": {
+            "name": "Barre d'acier laminé à froid",
+            "category": "Barres d'acier laminé à froid de qualité premium pour une utilisation industrielle, offrant une excellente résistance à la traction et durabilité. Idéales pour la construction, la fabrication et les applications en génie.",
+            "origin": "Ukraine",
+            "specification": "Acier",
+            "specification_detail": {
+                "type": "Acier laminé à froid",
+                "thickness": "3mm – 20mm",
+                "surface_finish": "Lisse",
+                "tensile_strength": "350 MPa",
+                "yield_strength": "250 MPa"
+            },
+            "shelfLife": "Indéfini, tant que stocké correctement",
+            "storage": "Endroit frais et sec",
+            "style": "Laminé à froid",
+            "type": "Industriel",
+            "packaging": {
+                "packaging": "Emballé en colis de 2 tonnes.",
+                "delivery_detail": "Dans les 20 jours suivant la confirmation de la commande."
+            }
+        },
+        "ar": {
+            "name": "شريط فولاذي مدلفن على البارد",
+            "category": "شريط فولاذي مدلفن على البارد عالي الجودة للاستخدام الصناعي، يقدم قوة شد ممتازة وديمومة. مثالي للبناء والتصنيع والتطبيقات الهندسية.",
+            "origin": "أوكرانيا",
+            "specification": "فولاذ",
+            "specification_detail": {
+                "type": "فولاذ مدلفن على البارد",
+                "thickness": "3mm – 20mm",
+                "surface_finish": "أملس",
+                "tensile_strength": "350 ميجا باسكال",
+                "yield_strength": "250 ميجا باسكال"
+            },
+            "shelfLife": "غير محدد، طالما تم تخزينه بشكل صحيح",
+            "storage": "مكان بارد وجاف",
+            "style": "مدلفن على البارد",
+            "type": "صناعي",
+            "packaging": {
+                "packaging": "معبأ في رزم بوزن 2 طن.",
+                "delivery_detail": "في غضون 20 يومًا من تأكيد الطلب."
+            }
+        },
+        "ru": {
+            "name": "Холоднокатаная стальная полоса",
+            "category": "Полосы холоднокатаного стали премиум-класса для промышленного использования, обладающие отличной прочностью на растяжение и долговечностью. Идеально подходят для строительства, производства и инженерных приложений.",
+            "origin": "Украина",
+            "specification": "Сталь",
+            "specification_detail": {
+                "type": "Холоднокатаная сталь",
+                "thickness": "3mm – 20mm",
+                "surface_finish": "Гладкая",
+                "tensile_strength": "350 МПа",
+                "yield_strength": "250 МПа"
+            },
+            "shelfLife": "Неограниченный срок хранения, при правильном хранении",
+            "storage": "Холодное, сухое место",
+            "style": "Холоднокатаная",
+            "type": "Промышленное",
+            "packaging": {
+                "packaging": "Упаковано в упаковки по 2 тонны.",
+                "delivery_detail": "В течение 20 дней с момента подтверждения заказа."
+            }
+        }
+    },
+    {
+        "image": "/products/sheep.jpg",
+        "name": "Live Sheep & Goats",
+        "en": {
+            "name": "Live Sheep & Goats",
+            "category": "High-quality live sheep and goats for farming and agricultural purposes, offering healthy and robust livestock for breeding or meat production.",
+            "origin": "Ukraine",
+            "specification": "Animal Livestock",
+            "specification_detail": {
+                "type": "Sheep and Goats",
+                "breed": "Various Local Breeds",
+                "weight_range": "30kg – 80kg",
+                "age_range": "6 months – 2 years",
+                "health_status": "Vaccinated and disease-free"
+            },
+            "shelfLife": "Not applicable, as the animals are live.",
+            "storage": "Requires proper grazing area and shelter.",
+            "style": "Farm Fresh",
+            "type": "Agricultural Livestock",
+            "packaging": {
+                "packaging": "Sold individually, based on the buyer's order.",
+                "delivery_detail": "Delivered within 7-14 days, depending on location."
+            }
+        },
+        "fr": {
+            "name": "Moutons et chèvres vivants",
+            "category": "Moutons et chèvres vivants de haute qualité pour l'agriculture et l'élevage, offrant un bétail sain et robuste pour la reproduction ou la production de viande.",
+            "origin": "Ukraine",
+            "specification": "Bétail",
+            "specification_detail": {
+                "type": "Moutons et chèvres",
+                "breed": "Races locales variées",
+                "weight_range": "30kg – 80kg",
+                "age_range": "6 mois – 2 ans",
+                "health_status": "Vaccinés et exempts de maladies"
+            },
+            "shelfLife": "Non applicable, car les animaux sont vivants.",
+            "storage": "Nécessite un espace de pâturage et un abri approprié.",
+            "style": "Frais de la ferme",
+            "type": "Bétail agricole",
+            "packaging": {
+                "packaging": "Vendus individuellement, en fonction de la commande de l'acheteur.",
+                "delivery_detail": "Livré dans un délai de 7 à 14 jours, selon l'emplacement."
+            }
+        },
+        "ar": {
+            "name": "خراف ماعز حية",
+            "category": "خراف وماعز حية عالية الجودة للاستخدام الزراعي، توفر حيوانات صحية وقوية للتربية أو إنتاج اللحوم.",
+            "origin": "أوكرانيا",
+            "specification": "الماشية",
+            "specification_detail": {
+                "type": "خراف وماعز",
+                "breed": "سلالات محلية متنوعة",
+                "weight_range": "30 كجم – 80 كجم",
+                "age_range": "6 أشهر – سنتان",
+                "health_status": "مُلقحة وخالية من الأمراض"
+            },
+            "shelfLife": "غير قابل للتطبيق، حيث أن الحيوانات حية.",
+            "storage": "يتطلب مساحة رعي ومأوى مناسبين.",
+            "style": "طازج من المزرعة",
+            "type": "الماشية الزراعية",
+            "packaging": {
+                "packaging": "تباع بشكل فردي، بناءً على طلب المشتري.",
+                "delivery_detail": "يتم التسليم في غضون 7-14 يومًا، حسب الموقع."
+            }
+        },
+        "ru": {
+            "name": "Живые овцы и козы",
+            "category": "Живые овцы и козы премиум-класса для сельского хозяйства, предлагающие здоровый и крепкий скот для разведения или производства мяса.",
+            "origin": "Украина",
+            "specification": "Сельскохозяйственный скот",
+            "specification_detail": {
+                "type": "Овцы и козы",
+                "breed": "Местные породы",
+                "weight_range": "30кг – 80кг",
+                "age_range": "6 месяцев – 2 года",
+                "health_status": "Вакцинированы и без заболеваний"
+            },
+            "shelfLife": "Не применимо, так как животные живые.",
+            "storage": "Необходима правильная пастбище и укрытие.",
+            "style": "Свежие с фермы",
+            "type": "Сельскохозяйственный скот",
+            "packaging": {
+                "packaging": "Продаются поштучно, в зависимости от заказа покупателя.",
+                "delivery_detail": "Доставка в течение 7-14 дней, в зависимости от местоположения."
+            }
+        }
+    },
+    {
+        "image": "/products/angle.jpg",
+        "name": "Angle Steel Bar",
+        "en": {
+            "name": "Angle Steel Bar",
+            "category": "Premium quality walnut kernels in bulk, suitable for snacking, baking, and cooking.",
+            "origin": "Ukraine",
+            "specification": "Edible Nuts",
+            "specification_detail": {
+                "type": "Walnut Kernels",
+                "variety": "English Walnut",
+                "size": "Medium to Large",
+                "taste": "Sweet and slightly buttery",
+                "shelf_life": "12 months when stored in a cool, dry place"
+            },
+            "shelfLife": "12 months",
+            "storage": "Store in an airtight container in a cool, dry place.",
+            "style": "Raw",
+            "type": "Food Ingredients",
+            "packaging": {
+                "packaging": "Bulk packaging (10kg to 50kg bags)",
+                "delivery_detail": "Delivered within 7-10 days, depending on location."
+            }
+        },
+        "fr": {
+            "name": "Noyaux de noix en vrac",
+            "category": "Noix de qualité supérieure en vrac, idéales pour grignoter, cuire et cuisiner.",
+            "origin": "Ukraine",
+            "specification": "Noix comestibles",
+            "specification_detail": {
+                "type": "Noyaux de noix",
+                "variety": "Noix anglaise",
+                "size": "Moyenne à grande",
+                "taste": "Doux et légèrement beurré",
+                "shelf_life": "12 mois lorsqu'elles sont conservées dans un endroit frais et sec"
+            },
+            "shelfLife": "12 mois",
+            "storage": "Conserver dans un récipient hermétique dans un endroit frais et sec.",
+            "style": "Brut",
+            "type": "Ingrédients alimentaires",
+            "packaging": {
+                "packaging": "Emballage en vrac (sacs de 10 kg à 50 kg)",
+                "delivery_detail": "Livraison dans un délai de 7 à 10 jours, selon l'emplacement."
+            }
+        },
+        "ar": {
+            "name": "حبات جوز بالجملة",
+            "category": "جوز عالي الجودة بالجملة، مناسب للتناول الخفيف والخبز والطهي.",
+            "origin": "أوكرانيا",
+            "specification": "مكسرات صالحة للأكل",
+            "specification_detail": {
+                "type": "حبات جوز",
+                "variety": "جوز إنجليزي",
+                "size": "متوسط إلى كبير",
+                "taste": "حلو ولذيذ مع لمسة من الزبدة",
+                "shelf_life": "12 شهرًا عند التخزين في مكان بارد وجاف"
+            },
+            "shelfLife": "12 شهرًا",
+            "storage": "تخزينها في حاوية محكمة الإغلاق في مكان بارد وجاف.",
+            "style": "خام",
+            "type": "مكونات غذائية",
+            "packaging": {
+                "packaging": "تعبئة بالجملة (أكياس من 10 كجم إلى 50 كجم)",
+                "delivery_detail": "يتم التسليم خلال 7-10 أيام، حسب الموقع."
+            }
+        },
+        "ru": {
+            "name": "Орехи грецкие оптом",
+            "category": "Орехи грецкие высокого качества оптом, подходят для перекусов, выпечки и готовки.",
+            "origin": "Украина",
+            "specification": "Съедобные орехи",
+            "specification_detail": {
+                "type": "Орехи грецкие",
+                "variety": "Английский орех",
+                "size": "Средний до большого",
+                "taste": "Сладкий и немного маслянистый",
+                "shelf_life": "12 месяцев при хранении в прохладном и сухом месте"
+            },
+            "shelfLife": "12 месяцев",
+            "storage": "Хранить в герметичном контейнере в прохладном, сухом месте.",
+            "style": "Сырой",
+            "type": "Пищевые ингредиенты",
+            "packaging": {
+                "packaging": "Оптовая упаковка (мешки по 10 кг до 50 кг)",
+                "delivery_detail": "Доставка в течение 7-10 дней, в зависимости от местоположения."
+            }
+        }
+    },
+    {
+        "image": "/products/walnut.jpg",
+        "name": "Bulk Walnut Kernel",
+        "en": {
+            "name": "Bulk Walnut Kernel",
+            "category": "Premium quality walnut kernels in bulk, suitable for snacking, baking, and cooking.",
+            "origin": "Ukraine",
+            "specification": "Edible Nuts",
+            "specification_detail": {
+                "type": "Walnut Kernels",
+                "variety": "English Walnut",
+                "size": "Medium to Large",
+                "taste": "Sweet and slightly buttery",
+                "shelf_life": "12 months when stored in a cool, dry place"
+            },
+            "shelfLife": "12 months",
+            "storage": "Store in an airtight container in a cool, dry place.",
+            "style": "Raw",
+            "type": "Food Ingredients",
+            "packaging": {
+                "packaging": "Bulk packaging (10kg to 50kg bags)",
+                "delivery_detail": "Delivered within 7-10 days, depending on location."
+            }
+        },
+        "fr": {
+            "name": "Noyaux de noix en vrac",
+            "category": "Noix de qualité supérieure en vrac, idéales pour grignoter, cuire et cuisiner.",
+            "origin": "Ukraine",
+            "specification": "Noix comestibles",
+            "specification_detail": {
+                "type": "Noyaux de noix",
+                "variety": "Noix anglaise",
+                "size": "Moyenne à grande",
+                "taste": "Doux et légèrement beurré",
+                "shelf_life": "12 mois lorsqu'elles sont conservées dans un endroit frais et sec"
+            },
+            "shelfLife": "12 mois",
+            "storage": "Conserver dans un récipient hermétique dans un endroit frais et sec.",
+            "style": "Brut",
+            "type": "Ingrédients alimentaires",
+            "packaging": {
+                "packaging": "Emballage en vrac (sacs de 10 kg à 50 kg)",
+                "delivery_detail": "Livraison dans un délai de 7 à 10 jours, selon l'emplacement."
+            }
+        },
+        "ar": {
+            "name": "حبات جوز بالجملة",
+            "category": "جوز عالي الجودة بالجملة، مناسب للتناول الخفيف والخبز والطهي.",
+            "origin": "أوكرانيا",
+            "specification": "مكسرات صالحة للأكل",
+            "specification_detail": {
+                "type": "حبات جوز",
+                "variety": "جوز إنجليزي",
+                "size": "متوسط إلى كبير",
+                "taste": "حلو ولذيذ مع لمسة من الزبدة",
+                "shelf_life": "12 شهرًا عند التخزين في مكان بارد وجاف"
+            },
+            "shelfLife": "12 شهرًا",
+            "storage": "تخزينها في حاوية محكمة الإغلاق في مكان بارد وجاف.",
+            "style": "خام",
+            "type": "مكونات غذائية",
+            "packaging": {
+                "packaging": "تعبئة بالجملة (أكياس من 10 كجم إلى 50 كجم)",
+                "delivery_detail": "يتم التسليم خلال 7-10 أيام، حسب الموقع."
+            }
+        },
+        "ru": {
+            "name": "Орехи грецкие оптом",
+            "category": "Орехи грецкие высокого качества оптом, подходят для перекусов, выпечки и готовки.",
+            "origin": "Украина",
+            "specification": "Съедобные орехи",
+            "specification_detail": {
+                "type": "Орехи грецкие",
+                "variety": "Английский орех",
+                "size": "Средний до большого",
+                "taste": "Сладкий и немного маслянистый",
+                "shelf_life": "12 месяцев при хранении в прохладном и сухом месте"
+            },
+            "shelfLife": "12 месяцев",
+            "storage": "Хранить в герметичном контейнере в прохладном, сухом месте.",
+            "style": "Сырой",
+            "type": "Пищевые ингредиенты",
+            "packaging": {
+                "packaging": "Оптовая упаковка (мешки по 10 кг до 50 кг)",
+                "delivery_detail": "Доставка в течение 7-10 дней, в зависимости от местоположения."
+            }
+        }
+    },
+    {
+        "image": "/products/pipe.jpg",
+        "name": "Steel Pipe",
+        "en": {
+            "name": "Steel Pipe",
+            "category": "High-quality steel pipes for construction, plumbing, and industrial use.",
+            "origin": "Ukraine",
+            "specification": "Steel Pipes",
+            "specification_detail": {
+                "material": "Steel",
+                "type": "Seamless, Welded",
+                "size": "Customizable",
+                "thickness": "Varies",
+                "length": "Customizable"
+            },
+            "shelfLife": "Indefinite when stored properly",
+            "storage": "Store in a dry, clean environment to prevent corrosion.",
+            "style": "Raw Steel",
+            "type": "Industrial Materials",
+            "packaging": {
+                "packaging": "Bulk packaging, wrapped or palletized",
+                "delivery_detail": "Delivered within 10-15 days, depending on location."
+            }
+        },
+        "fr": {
+            "name": "Tuyau en acier",
+            "category": "Tuyaux en acier de haute qualité pour la construction, la plomberie et l'utilisation industrielle.",
+            "origin": "Ukraine",
+            "specification": "Tuyaux en acier",
+            "specification_detail": {
+                "material": "Acier",
+                "type": "Sans soudure, Soudé",
+                "size": "Personnalisable",
+                "thickness": "Variable",
+                "length": "Personnalisable"
+            },
+            "shelfLife": "Indéfini lorsqu'il est stocké correctement",
+            "storage": "Stocker dans un environnement sec et propre pour éviter la corrosion.",
+            "style": "Acier brut",
+            "type": "Matériaux industriels",
+            "packaging": {
+                "packaging": "Emballage en vrac, enroulé ou palettisé",
+                "delivery_detail": "Livré dans un délai de 10 à 15 jours, selon l'emplacement."
+            }
+        },
+        "ar": {
+            "name": "أنابيب فولاذية",
+            "category": "أنابيب فولاذية عالية الجودة للبناء، والسباكة، والاستخدام الصناعي.",
+            "origin": "أوكرانيا",
+            "specification": "أنابيب فولاذية",
+            "specification_detail": {
+                "material": "فولاذ",
+                "type": "غير ملحوم، ملحوم",
+                "size": "قابل للتخصيص",
+                "thickness": "متنوع",
+                "length": "قابل للتخصيص"
+            },
+            "shelfLife": "غير محدد عند التخزين بشكل صحيح",
+            "storage": "يتم تخزينه في بيئة جافة ونظيفة لتجنب التآكل.",
+            "style": "فولاذ خام",
+            "type": "مواد صناعية",
+            "packaging": {
+                "packaging": "تعبئة بالجملة، ملفوفة أو على منصات نقالة",
+                "delivery_detail": "يتم التسليم خلال 10-15 يومًا، حسب الموقع."
+            }
+        },
+        "ru": {
+            "name": "Стальные трубы",
+            "category": "Высококачественные стальные трубы для строительства, водопроводных и промышленных работ.",
+            "origin": "Украина",
+            "specification": "Стальные трубы",
+            "specification_detail": {
+                "material": "Сталь",
+                "type": "Бесшовные, Сварные",
+                "size": "Настроить под заказ",
+                "thickness": "Различное",
+                "length": "Настроить под заказ"
+            },
+            "shelfLife": "Неограниченный срок хранения при правильном хранении",
+            "storage": "Хранить в сухом, чистом месте, чтобы избежать коррозии.",
+            "style": "Сырая сталь",
+            "type": "Промышленные материалы",
+            "packaging": {
+                "packaging": "Оптовая упаковка, в рулонах или на поддонах",
+                "delivery_detail": "Доставка в течение 10-15 дней, в зависимости от местоположения."
+            }
+        }
+    },
+    {
+        "image": "/products/cars.jpg",
+        "name": "Heavy Vehicles & New Cars",
+        "en": {
+            "name": "Heavy Vehicles & New Cars",
+            "category": "High-quality vehicles for industrial use, transportation, and personal driving.",
+            "origin": "Ukraine",
+            "specification": "Heavy vehicles and new cars",
+            "specification_detail": {
+                "material": "Steel, Aluminum, Composite Materials",
+                "type": "Heavy-duty, Commercial, Personal",
+                "size": "Customizable",
+                "thickness": "Varies",
+                "length": "Customizable"
+            },
+            "shelfLife": "Indefinite when stored properly",
+            "storage": "Store in a dry, clean environment to prevent corrosion and maintain vehicle quality.",
+            "style": "Raw Steel, Modern",
+            "type": "Vehicles and Automotive Materials",
+            "packaging": {
+                "packaging": "Bulk shipping or individual delivery based on the vehicle's requirements",
+                "delivery_detail": "Delivered within 10-15 days, depending on location."
+            }
+        },
+        "fr": {
+            "name": "Véhicules lourds et voitures neuves",
+            "category": "Véhicules de haute qualité pour une utilisation industrielle, le transport et la conduite personnelle.",
+            "origin": "Ukraine",
+            "specification": "Véhicules lourds et voitures neuves",
+            "specification_detail": {
+                "material": "Acier, Aluminium, Matériaux composites",
+                "type": "Utilisation lourde, Commercial, Personnel",
+                "size": "Personnalisable",
+                "thickness": "Variable",
+                "length": "Personnalisable"
+            },
+            "shelfLife": "Indéfini lorsqu'il est stocké correctement",
+            "storage": "Stocker dans un environnement sec et propre pour éviter la corrosion et maintenir la qualité du véhicule.",
+            "style": "Acier brut, Moderne",
+            "type": "Véhicules et matériaux automobiles",
+            "packaging": {
+                "packaging": "Expédition en vrac ou livraison individuelle en fonction des besoins du véhicule",
+                "delivery_detail": "Livré dans un délai de 10 à 15 jours, selon l'emplacement."
+            }
+        },
+        "ar": {
+            "name": "مركبات ثقيلة و سيارات جديدة",
+            "category": "مركبات عالية الجودة للاستخدام الصناعي، النقل، والقيادة الشخصية.",
+            "origin": "أوكرانيا",
+            "specification": "مركبات ثقيلة وسيارات جديدة",
+            "specification_detail": {
+                "material": "فولاذ، ألمنيوم، مواد مركبة",
+                "type": "ثقيلة، تجارية، شخصية",
+                "size": "قابل للتخصيص",
+                "thickness": "متنوع",
+                "length": "قابل للتخصيص"
+            },
+            "shelfLife": "غير محدد عند التخزين بشكل صحيح",
+            "storage": "يتم تخزينه في بيئة جافة ونظيفة للحفاظ على جودة المركبة ومنع التآكل.",
+            "style": "فولاذ خام، حديث",
+            "type": "مركبات ومواد السيارات",
+            "packaging": {
+                "packaging": "الشحن بالجملة أو التوصيل الفردي حسب متطلبات المركبة",
+                "delivery_detail": "يتم التسليم خلال 10-15 يومًا، حسب الموقع."
+            }
+        },
+        "ru": {
+            "name": "Тяжелые автомобили и новые машины",
+            "category": "Высококачественные автомобили для промышленного использования, транспортировки и личных нужд.",
+            "origin": "Украина",
+            "specification": "Тяжелые автомобили и новые машины",
+            "specification_detail": {
+                "material": "Сталь, Алюминий, Композитные материалы",
+                "type": "Тяжелая эксплуатация, Коммерческие, Личные",
+                "size": "Настроить под заказ",
+                "thickness": "Различное",
+                "length": "Настроить под заказ"
+            },
+            "shelfLife": "Неограниченный срок хранения при правильном хранении",
+            "storage": "Хранить в сухом, чистом месте для поддержания качества автомобиля и предотвращения коррозии.",
+            "style": "Сырая сталь, Современный",
+            "type": "Автомобили и автомобильные материалы",
+            "packaging": {
+                "packaging": "Оптовая отправка или индивидуальная доставка в зависимости от потребностей автомобиля",
+                "delivery_detail": "Доставка в течение 10-15 дней, в зависимости от местоположения."
+            }
+        }
+    }
+]
