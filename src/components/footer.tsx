@@ -51,10 +51,10 @@ const Footer = () => {
                                     <Link href="" className="text-sm opacity-80">{t.about}</Link>
                                 </li>
                                 <li>
-                                    <a className="text-sm opacity-80" href="mailTo:help@novatradar.com" target="_blank">help@novatradar.com</a>
+                                    <a className="text-sm opacity-80" href="mailTo:help@novatradar.com" rel="noreferrer" target="_blank">help@novatradar.com</a>
                                 </li>
                                 <li>
-                                    <a className="text-sm opacity-80" href="mailTo:+380936018625" target="_blank">(+380) 936 01 8625</a>
+                                    <a className="text-sm opacity-80" href="mailTo:+380936018625" rel="noreferrer" target="_blank">(+380) 936 01 8625</a>
                                 </li>
                             </ul>
                         </div>
@@ -103,11 +103,11 @@ const Footer = () => {
                         <div className="flex flex-col md:flex-row gap-10 md:gap-20">
                             <div>
                                 <h5 className="text-sm md:text-base text-white mb-2 md:mb-4">{t.emailAddress}</h5>
-                                <a className="text-white text-lg md:text-2xl" href="mailTo:help@novatradar.com" target="_blank">help@novatradar.com</a>
+                                <a className="text-white text-lg md:text-2xl" href="mailTo:help@novatradar.com" rel="noreferrer" target="_blank">help@novatradar.com</a>
                             </div>
                             <div>
                                 <h5 className="text-sm md:text-base text-white mb-2 md:mb-4">{t.phone}</h5>
-                                <a className="text-white text-lg md:text-2xl" href="mailTo:+380936018625" target="_blank">(+380) 936 01 8625</a>
+                                <a className="text-white text-lg md:text-2xl" href="mailTo:+380936018625" rel="noreferrer" target="_blank">(+380) 936 01 8625</a>
                             </div>
                         </div>
                     </div>

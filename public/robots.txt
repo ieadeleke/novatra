@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /login/
+Allow: /products/
+Allow: /about/
+Allow: /contact/
+Allow: /privacy/
+Allow: /products/[name]/[id]
+Sitemap: https://novatradar.com/sitemap.xml

@@ -8,6 +8,7 @@ import { useState, useEffect, createContext } from 'react';
 import { useParams } from 'next/navigation';
 import { axiosURL } from '@/utils/axios';
 import Link from 'next/link';
+import Image from 'next/image';
 
 // Define your product interface
 interface ProductInterface {
@@ -84,7 +85,7 @@ const ProductDetail = () => {
                             {loadingData ? (
                                 <Skeleton.Image style={{ height: '100%', width: '100%', minHeight: '15rem' }} active />
                             ) : (
-                                <img
+                                <Image
                                     src={`${process.env.NEXT_PUBLIC_LIVE_URL}${product?.image}`}
                                     alt={product ? JSON.parse(product.translation)[language]?.name : ''}
                                     className="w-full h-full rounded-lg object-cover max-h-[28rem]"
@@ -147,7 +148,7 @@ const ProductDetail = () => {
                                 : products.map((product, index) => (
                                     <div className="cursor-pointer" key={index}>
                                         <Link href={`/products/${JSON.parse(product.translation)[language]?.name}/${product.id}`}>
-                                            <img
+                                            <Image
                                                 src={`${process.env.NEXT_PUBLIC_LIVE_URL}${product.image}`}
                                                 alt={JSON.parse(product.translation)[language]?.name}
                                                 className="w-full h-[12rem] md:h-[18rem] rounded-lg object-cover"

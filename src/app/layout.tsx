@@ -3,8 +3,6 @@ import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 import { LanguageProvider } from '@/context/LanguageContext';
 import Script from "next/script";
-import Head from 'next/head';
-
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -17,7 +15,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "NovaTradar - Connecting global businesses with top-tier Ukrainian manufacturers",
+  title: "NovaTradar - Connecting businesses with top Ukrainian manufacturers",
   description: "Welcome to NovaTradar, your trusted partner in connecting global businesses with top-tier Ukrainian manufacturers in the agriculture and construction sectors.",
 };
 
@@ -28,32 +26,6 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <Head>
-        {/* Title and Description */}
-        <title>NovaTradar - Connecting global businesses with top-tier Ukrainian manufacturers</title>
-        <meta name="description" content="Welcome to NovaTradar, your trusted partner in connecting global businesses with top-tier Ukrainian manufacturers in the agriculture and construction sectors." />
-
-        {/* Basic Meta Tags */}
-        <meta name="keywords" content="business, global trade, Ukrainian manufacturers, agriculture, construction" />
-        <meta name="robots" content="index, follow" />
-
-        {/* Open Graph Meta Tags for Social Sharing */}
-        <meta property="og:title" content="NovaTradar - Connecting global businesses with top-tier Ukrainian manufacturers" />
-        <meta property="og:description" content="Welcome to NovaTradar, your trusted partner in connecting global businesses with top-tier Ukrainian manufacturers in the agriculture and construction sectors." />
-        <meta property="og:image" content="https://novatradar.com/lolo.png" />
-        <meta property="og:url" content="https://novatradar.com/lolo.png" />
-        <meta property="og:type" content="website" />
-
-        {/* Twitter Cards Meta Tags */}
-        <meta name="twitter:card" content="https://novatradar.com/lolo.png" />
-        <meta name="twitter:title" content="NovaTradar - Connecting global businesses with top-tier Ukrainian manufacturers" />
-        <meta name="twitter:description" content="Welcome to NovaTradar, your trusted partner in connecting global businesses with top-tier Ukrainian manufacturers in the agriculture and construction sectors." />
-        <meta name="twitter:image" content="https://novatradar.com/lolo.png" />
-
-        {/* Favicon */}
-        <link rel="icon" href="/favicon.ico" />
-
-      </Head>
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
@@ -61,7 +33,7 @@ export default function RootLayout({
           {children}
         </LanguageProvider>
       </body>
-      <Script
+      <Script defer
         id="tawk-to"
         strategy="afterInteractive"
         dangerouslySetInnerHTML={{

@@ -13,6 +13,12 @@ import { translations } from "@/translations";
 import { Spin } from 'antd';
 import { axiosURL } from "@/utils/axios";
 import { LoadingOutlined } from '@ant-design/icons';
+import Image from "next/image";
+import UsImg from "@/assets/images/logo/us.webp";
+import ArImg from "@/assets/images/logo/ar.webp";
+import FrImg from "@/assets/images/logo/fr.webp";
+import RuImg from "@/assets/images/logo/ru.webp";
+import Logo from "@/assets/images/lolo.webp";
 
 const Context = React.createContext({ name: 'Default' });
 
@@ -62,7 +68,7 @@ const Navigation = (props: NavigationInterface) => {
                     setLanguage('en')
                     setCurrentCountry("en")
                 }}>
-                    <img src="/logo/us.png" alt="us logo" className="w-auto h-[20px]" />
+                    <Image src={UsImg} alt="us logo" className="w-auto h-[20px]" />
                 </div>
             ),
         },
@@ -73,7 +79,7 @@ const Navigation = (props: NavigationInterface) => {
                     setLanguage('fr')
                     setCurrentCountry("fr")
                 }}>
-                    <img src="/logo/fr.png" alt="france logo" className="w-auto h-[20px]" />
+                    <Image src={FrImg} alt="france logo" className="w-auto h-[20px]" />
                 </div>
             ),
         },
@@ -84,7 +90,7 @@ const Navigation = (props: NavigationInterface) => {
                     setLanguage('ar')
                     setCurrentCountry("ar")
                 }}>
-                    <img src="/logo/ar.png" alt="arabic logo" className="w-auto h-[20px]" />
+                    <Image src={ArImg} alt="arabic logo" className="w-auto h-[20px]" />
                 </div>
             )
         },
@@ -95,7 +101,7 @@ const Navigation = (props: NavigationInterface) => {
                     setLanguage('ru')
                     setCurrentCountry("ru")
                 }}>
-                    <img src="/logo/ru.png" alt="russia logo" className="w-auto h-[20px]" />
+                    <Image src={RuImg} alt="russia logo" className="w-auto h-[20px]" />
                 </div>
             )
         }
@@ -162,7 +168,7 @@ const Navigation = (props: NavigationInterface) => {
                             <div>
                                 <Link href="/">
                                     <div className="flex gap-3 items-center">
-                                        <img src="/lolo.png" alt="logo" className="w-auto h-[50px]" />
+                                        <Image src={Logo} alt="logo" className="w-auto h-[50px]" />
                                     </div>
                                 </Link>
                             </div>
@@ -186,13 +192,13 @@ const Navigation = (props: NavigationInterface) => {
                                                 <Space>
                                                     {
                                                         language === "en" ?
-                                                            <img src="/logo/us.png" alt="USImg" className="w-auto h-[20px]" />
+                                                            <Image src={UsImg} alt="USImg" className="w-auto h-[20px]" />
                                                             : language === "ru" ?
-                                                                <img src="/logo/ru.png" alt="USImg" className="w-auto h-[20px]" />
+                                                                <Image src={RuImg} alt="USImg" className="w-auto h-[20px]" />
                                                                 : language === "ar" ?
-                                                                    <img src="/logo/ar.png" alt="USImg" className="w-auto h-[20px]" />
+                                                                    <Image src={ArImg} alt="USImg" className="w-auto h-[20px]" />
                                                                     :
-                                                                    <img src="/logo/fr.png" alt="USImg" className="w-auto h-[20px]" />
+                                                                    <Image src={FrImg} alt="USImg" className="w-auto h-[20px]" />
                                                     }
                                                 </Space>
                                             </a>
@@ -217,13 +223,13 @@ const Navigation = (props: NavigationInterface) => {
                                                 <div className="flex items-center pt-2">
                                                     {
                                                         language === "en" ?
-                                                            <img src="/logo/us.png" alt="USImg" className="w-auto h-[20px]" />
+                                                            <Image src={UsImg} alt="USImg" className="w-auto h-[20px]" />
                                                             : language === "ru" ?
-                                                                <img src="/logo/ru.png" alt="USImg" className="w-auto h-[20px]" />
+                                                                <Image src={RuImg} alt="USImg" className="w-auto h-[20px]" />
                                                                 : language === "ar" ?
-                                                                    <img src="/logo/ar.png" alt="USImg" className="w-auto h-[20px]" />
+                                                                    <Image src={ArImg} alt="USImg" className="w-auto h-[20px]" />
                                                                     :
-                                                                    <img src="/logo/fr.png" alt="USImg" className="w-auto h-[20px]" />
+                                                                    <Image src={FrImg} alt="USImg" className="w-auto h-[20px]" />
                                                     }
                                                     <MdKeyboardArrowDown className="text-2xl text-white" />
                                                 </div>
@@ -302,7 +308,7 @@ const Navigation = (props: NavigationInterface) => {
                                             toggleDisplayDrawer();
                                         }}
                                             className="text-sm font-medium text-black font-worksans border-b border-solid border-[#F2F2F2] px-4 py-5">
-                                            <a target="_blank"
+                                            <a target="_blank" rel="noreferrer"
                                                 href="https://wa.me/+380936018625?text=Hello%20there,%20I%20want%20to%20make%20enquiries"> {t.whatsapp}</a></li>
                                     </ul>
                                     <div className="absolute bottom-20 w-full">
@@ -313,13 +319,13 @@ const Navigation = (props: NavigationInterface) => {
                                                         <div className="flex items-center">
                                                             {
                                                                 language === "en" ?
-                                                                    <img src="/logo/us.png" alt="USImg" className="w-auto h-[20px]" />
+                                                                    <Image src={UsImg} alt="USImg" className="w-auto h-[20px]" />
                                                                     : language === "ru" ?
-                                                                        <img src="/logo/ru.png" alt="USImg" className="w-auto h-[20px]" />
+                                                                        <Image src={RuImg} alt="USImg" className="w-auto h-[20px]" />
                                                                         : language === "ar" ?
-                                                                            <img src="/logo/ar.png" alt="USImg" className="w-auto h-[20px]" />
+                                                                            <Image src={ArImg} alt="USImg" className="w-auto h-[20px]" />
                                                                             :
-                                                                            <img src="/logo/fr.png" alt="USImg" className="w-auto h-[20px]" />
+                                                                            <Image src={FrImg} alt="USImg" className="w-auto h-[20px]" />
                                                             }
                                                             <MdKeyboardArrowDown className="text-2xl" />
                                                         </div>

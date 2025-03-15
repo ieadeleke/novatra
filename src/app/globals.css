@@ -60,17 +60,13 @@ h6 {
 }
 
 .br-img {
-  background: url("/farm.jpg");
+  background: url("/farm.webp");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center bottom;
 }
 
 .hero {
-  /* background: linear-gradient(to top right, rgba(0, 0, 0.7), rgba(0, 0, 0, .2), rgba(0, 0, 0, .1)), url("/hero.jpg");
-  background: linear-gradient(to top right, rgba(0, 0, 0.7), rgba(0, 0, 0, .5), rgba(0, 0, 0, .1)), url("/hero_new.jpg"); */
-  /* background: linear-gradient(to top right, rgba(0, 0, 0.7), rgba(0, 0, 0, .5), rgba(0, 0, 0, .1)), url("/storage.jpg"); */
-  /* background: linear-gradient(to top right, rgba(0, 0, 0.2), rgba(0, 0, 0, .2)), url("/main.webp"); */
   background: url("/main.webp");
   background-repeat: no-repeat;
   background-size: cover;
@@ -85,12 +81,12 @@ h6 {
   width: 100% !important;
 }
 
-.about-bg {
+/* .about-bg {
   background: linear-gradient(to top right, rgba(0, 0, 0.7), rgba(0, 0, 0, .5), rgba(0, 0, 0, .1)), url("/about.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-}
+} */
 
 .ant-drawer-body {
   padding: 0px !important;
@@ -142,7 +138,7 @@ h6 {
 }
 
 .bg-farm {
-  background: linear-gradient(to top right, rgba(0, 0, 0.2), rgba(0, 0, 0, .2)), url("/store.jpeg");
+  background: linear-gradient(to top right, rgba(0, 0, 0.2), rgba(0, 0, 0, .2)), url("/store.webp");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center; 
