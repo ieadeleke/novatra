@@ -248,6 +248,7 @@ export default function LandingPage() {
                                 </div>
                             </div>
                         </div>
+                        
                         <div className="px-5 md:w-[70%] mx-auto flex flex-col gap-8 md:gap-10 mb-20 mt-20">
                             <div>
                                 <h3 className="text-2xl md:text-3xl font-bold leading-normal md:leading-tight">{t.faqHeader}</h3>
