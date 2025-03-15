@@ -124,7 +124,9 @@ export default function LandingPage() {
                                                                         <div className="cursor-pointer" key={index}>
                                                                             <Link href={`/products/${(JSON.parse(product?.translation))[language]?.name}/${product.id}`}>
                                                                                 <div className="size-[15rem] md:size-[20rem] mx-auto md:mx-unset rounded-full overflow-hidden">
-                                                                                    <Image src={`${base_url}${product?.image}`} alt={(JSON.parse(product.translation))[language]?.name} width={0} height={0} className="w-full h-full md:h-full rounded-l object-fit object-cover" />
+                                                                                    <Image src={`${base_url}${product?.image}`} alt={(JSON.parse(product.translation))[language]?.name} layout="responsive"
+                                                                                        width={1200}
+                                                                                        height={800} quality={100} className="w-full h-full md:h-full rounded-l object-fit object-cover" />
                                                                                 </div>
                                                                                 <div className="mt-2 md:mt-5">
                                                                                     <h4 className="text-base md:text-xl font-medium">{(JSON.parse(product.translation))[language]?.name}</h4>
@@ -200,7 +202,7 @@ export default function LandingPage() {
                                             dbData.map((product: any, index: number) => (
                                                 <div className="cursor-pointer" key={index}>
                                                     <Link href={`/products/${(JSON.parse(product?.translation))[language]?.name}/${product.id}`}>
-                                                        <Image src={`${base_url}${product?.image}`} alt={(JSON.parse(product.translation))[language]?.name} width={0} height={0} className="w-full h-[12rem] md:h-[18rem] rounded-l object-fit object-cover" />
+                                                        <Image src={`${base_url}${product?.image}`} width={300} height={200} quality={100} alt={(JSON.parse(product.translation))[language]?.name} className="productImg w-full h-[12rem] md:h-[15rem] rounded-lg object-fit object-cover" />
                                                         <div className="mt-2 md:mt-5">
                                                             <h4 className="text-base md:text-lg font-medium">{(JSON.parse(product.translation))[language]?.name}</h4>
                                                             <p className="mt-1 md:mt-3 text-black opacity-80">
@@ -248,7 +250,7 @@ export default function LandingPage() {
                                 </div>
                             </div>
                         </div>
-                        
+
                         <div className="px-5 md:w-[70%] mx-auto flex flex-col gap-8 md:gap-10 mb-20 mt-20">
                             <div>
                                 <h3 className="text-2xl md:text-3xl font-bold leading-normal md:leading-tight">{t.faqHeader}</h3>

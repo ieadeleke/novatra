@@ -154,3 +154,14 @@ h6 {
   max-width: 100% !important;
   width: 100% !important;
 }
+
+.productImg {
+  width: 100% !important;
+  height: 15rem !important;
+}
+
+@media screen and (max-width: 750px) {
+  .productImg {
+    height: 12rem !important;
+  }
+}

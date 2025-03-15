@@ -21,7 +21,7 @@ export const translations: Translations = {
       support: "Support"
     },
     home: {
-      heroTitle: "NovaTradar Gives You Best In The Market.",
+      heroTitle: "NovaTradar Gives You The Best In The Market.",
       heroBody: "NovaTradar connects global businesses with top Ukrainian manufacturers, ensuring safe, fast, and efficient trade. We simplify international trade so you can focus on growing your business.",
       heroButton: "See How We Impact",
       belowTitle: "Who are we at NovaTradars",

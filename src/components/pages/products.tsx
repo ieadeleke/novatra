@@ -15,6 +15,7 @@ import Link from "next/link";
 import { useRouter, useSearchParams } from "next/navigation";
 import { Suspense } from "react";
 import { base_url } from "@/utils/constant";
+import Image from "next/image";
 
 
 function Products() {
@@ -213,7 +214,7 @@ function Products() {
                                                         <Link href={`/products/${(JSON.parse(product?.translation))[language]?.name}/${product.id}`}>
                                                             {/* <div className="h-[12rem] md:h-[18rem] w-full bg-[#F1F1F1]"></div> */}
                                                             {/* <div className="h-[12rem] md:h-[18rem] w-full bg-[#F1F1F1]"></div> */}
-                                                            <img src={`${base_url}${product?.image}`} alt={(JSON.parse(product.translation))[language]?.name} className="w-full h-[12rem] md:h-[15rem] rounded-l object-fit object-cover" />
+                                                            <Image src={`${base_url}${product?.image}`} width={300} height={200} quality={100} alt={(JSON.parse(product.translation))[language]?.name} className="productImg w-full h-[12rem] md:h-[15rem] rounded-lg object-fit object-cover" />
                                                             <div className="mt-2 md:mt-5">
                                                                 <h4 className="text-base md:text-lg font-medium">{(JSON.parse(product.translation))[language]?.name}</h4>
                                                                 <p className="mt-1 md:mt-3 text-black opacity-80">

@@ -4,6 +4,7 @@ import Link from "next/link";
 
 import { useLanguage } from "@/context/LanguageContext";
 import { translations } from "@/translations";
+import { FacebookShareButton, TwitterShareButton, PinterestShareButton } from 'react-share';
 
 const Footer = () => {
 
@@ -164,6 +165,10 @@ const Footer = () => {
                                 <Link href="" className="text-sm text-white opacity-50">Terms of Use</Link>
                             </li> */}
                         </ul>
+                    </div>
+                    <div>
+                        <FacebookShareButton url={"https://novatradar.com"}>Share on Facebook</FacebookShareButton>
+                        <TwitterShareButton url={"https://novatradar.com"}>Share on Twitter</TwitterShareButton>
                     </div>
                 </div>
                 {/* <div className="flex flex-col md:grid grid-cols-2 gap-10 text-white">
