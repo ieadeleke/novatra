@@ -1,5 +1,3 @@
-"use client";
-
 import DisplayLayout from "@/components/layout";
 import PrivacyPolicy from "@/components/pages/privacy";
 

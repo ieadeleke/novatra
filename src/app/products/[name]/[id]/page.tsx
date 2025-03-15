@@ -1,6 +1,4 @@
 
-'use client';
-
 import React from "react";
 import ProductDetail from "@/components/pages/productDetail";
 
